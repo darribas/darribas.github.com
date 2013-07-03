@@ -111,6 +111,9 @@ sources in order to establish facts and reach new conclusions
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (2013) “Cultural Diversity and Urban
   Buzz”.
 
+* Arribas-Bel, D. (2012) "Accidental, Big and Open: Emerging Data Sources for
+  the Understanding of Cities".
+
 * Anselin, L; Amaral, P. V.; Arribas-Bel, D. (2012) “Technical Aspects of
   Implementing GMM Estimation of the Spatial Error Model in PySAL and
   GeoDaSpace”. GeoDa Center Technical Report.
