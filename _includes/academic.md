@@ -30,11 +30,11 @@ sources in order to establish facts and reach new conclusions
     * 2011 [Working
       paper](https://geodacenter.asu.edu/category/public/spatial-fixed-e) (GeoDa Center Working Paper Series)
 
-* Amaral, P. V., Anselin, L., Arribas-Bel, D. (2012) “Testing for spatial error
-  dependence in probit models” *Letters in Spatial Resource and Sciences*.
+* Amaral, P. V., Anselin, L., Arribas-Bel, D. (2013) “Testing for spatial error
+  dependence in probit models” *Letters in Spatial Resource and Sciences*, 6(2): 91-101.
 
     * [Published
-      version](http://link.springer.com/article/10.1007%2Fs12076-012-0089-9)
+      version](http://link.springer.com/article/10.1007/s12076-012-0089-9)
     * 2012 [Working
       paper](https://geodacenter.asu.edu/projects/nij/content/testing-spatial) (GeoDa Center Working Paper Series)
 
