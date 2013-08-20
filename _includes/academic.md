@@ -111,6 +111,8 @@ sources in order to establish facts and reach new conclusions
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (2013) “Cultural Diversity and Urban
   Buzz”.
 
+    * [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
+
 * Arribas-Bel, D. (2012) "Accidental, Big and Open: Emerging Data Sources for
   the Understanding of Cities".
 
