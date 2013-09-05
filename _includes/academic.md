@@ -11,6 +11,12 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D. (in press) "Accidental, Open and Everywhere: Emerging
+            Data Sources for the Understanding of Cities". Accepted for
+            publication in *Applied Geography*.
+
+    * 2013 [Working Paper](http://darribas.org/data_aoe)
+
 * Arribas-Bel, D., Schmidt, C. R. (2013). "Self-organizing maps and the US urban spatial structure" *Environment and Planning B*, 2: 362-371.
     
     * [Published version](http://www.envplan.com/abstract.cgi?id=b37014)
@@ -112,9 +118,6 @@ sources in order to establish facts and reach new conclusions
   Buzz”.
 
     * [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
-
-* Arribas-Bel, D. (2012) "Accidental, Big and Open: Emerging Data Sources for
-  the Understanding of Cities".
 
 * Anselin, L; Amaral, P. V.; Arribas-Bel, D. (2012) “Technical Aspects of
   Implementing GMM Estimation of the Spatial Error Model in PySAL and
