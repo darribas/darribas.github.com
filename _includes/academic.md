@@ -13,6 +13,7 @@ sources in order to establish facts and reach new conclusions
 
 * Arribas-Bel, D. (in press) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". Accepted for publication in *Applied Geography*.
 
+    * [Published version](http://www.sciencedirect.com/science/article/pii/S0143622813002178)
     * 2013 [Working Paper](http://darribas.org/data_aoe)
 
 * Arribas-Bel, D., Schmidt, C. R. (2013). "Self-organizing maps and the US urban spatial structure" *Environment and Planning B*, 2: 362-371.
