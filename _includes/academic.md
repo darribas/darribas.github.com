@@ -11,9 +11,7 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Arribas-Bel, D. (in press) "Accidental, Open and Everywhere: Emerging
-            Data Sources for the Understanding of Cities". Accepted for
-            publication in *Applied Geography*.
+* Arribas-Bel, D. (in press) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". Accepted for publication in *Applied Geography*.
 
     * 2013 [Working Paper](http://darribas.org/data_aoe)
 
