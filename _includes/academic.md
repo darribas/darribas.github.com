@@ -122,7 +122,7 @@ sources in order to establish facts and reach new conclusions
   Implementing GMM Estimation of the Spatial Error Model in PySAL and
   GeoDaSpace”. GeoDa Center Technical Report.
 
-    * [Technical report](https://geodacenter.asu.edu/drupal_files/ sperrorgmm_wp2.pdf) (pdf)
+    * [Technical report](https://geodacenter.asu.edu/drupal_files/sperrorgmm_wp2.pdf) (pdf)
     * [Code](https://geodacenter.asu.edu/drupal_files/Code.zip) (IPython and Rstudio notebooks)
 
 * Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (2012) “The size distribution of
