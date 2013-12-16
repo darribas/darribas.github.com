@@ -11,6 +11,12 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (in press) “Socio-Cultural Diversity and Urban
+  Buzz”. Accepted for publication in *Environment and Planning C -- Government
+  and Policy*.
+
+    * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
+
 * Arribas-Bel, D. (in press) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". Accepted for publication in *Applied Geography*.
 
     * [Published version](http://www.sciencedirect.com/science/article/pii/S0143622813002178)
@@ -112,11 +118,6 @@ sources in order to establish facts and reach new conclusions
 
 * Arribas-Bel, D.; Sanz Gracia, F. (2013) “On the existence of agglomeration shadows
   at the metropolitan level”.
-
-* Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (2013) “Cultural Diversity and Urban
-  Buzz”.
-
-    * [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
 
 * Anselin, L; Amaral, P. V.; Arribas-Bel, D. (2012) “Technical Aspects of
   Implementing GMM Estimation of the Spatial Error Model in PySAL and
