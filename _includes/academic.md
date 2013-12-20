@@ -16,6 +16,7 @@ sources in order to establish facts and reach new conclusions
   and Policy*.
 
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
+    * [Reproducible kit](http://darribas.org/buzz_adam)
 
 * Arribas-Bel, D. (in press) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". Accepted for publication in *Applied Geography*.
 
