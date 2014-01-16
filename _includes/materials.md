@@ -2,6 +2,14 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### “Workshop on open Workflows“ (2014)
+
+2h. workshop jointly taught
+with Thomas de Graaff at the Department of Spatial Economics, VU
+University. Amsterdam (Netherlands).
+
+* [Website](http://darribas.org/WooW) with link to repository and materials
+
 ### “Geo-computation in Python” (2013)
 
 4h. workshop taught for the *VII Jornadas de SIG libre* at SIGTE, Universitat de
