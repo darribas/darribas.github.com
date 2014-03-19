@@ -11,6 +11,10 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Sanz Gracia, F. (in press) “The Validity of the Monocentric City Model
+  in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. Accepted for
+  publication in *Urban Geography*.
+
 * Arribas-Bel, D. (in press) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". Accepted for publication in *Applied Geography*.
 
     * [Published version](http://www.sciencedirect.com/science/article/pii/S0143622813002178)
@@ -132,9 +136,6 @@ sources in order to establish facts and reach new conclusions
 
 * Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (2012) “The size distribution of
   employment centers in the U.S. Metropolitan Areas”.
-
-* Arribas-Bel, D.; Sanz Gracia, F. (2010) “The Validity of the Monocentric City Model
-  in a Polycentric Age: US Metropolitan areas in 1990 and 2000”.
 
 * Arribas-Bel, D. (2009) ”How many? Using ESDA to evaluate polycentricity in the
   US cities”.
