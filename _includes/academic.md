@@ -15,11 +15,6 @@ sources in order to establish facts and reach new conclusions
   in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. Accepted for
   publication in *Urban Geography*.
 
-* Arribas-Bel, D. (in press) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". Accepted for publication in *Applied Geography*.
-
-    * [Published version](http://www.sciencedirect.com/science/article/pii/S0143622813002178)
-    * 2013 [Working Paper](http://darribas.org/data_aoe)
-
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (in press) “Socio-Cultural Diversity and Urban
   Buzz”. Accepted for publication in *Environment and Planning C -- Government
   and Policy*.
@@ -27,8 +22,13 @@ sources in order to establish facts and reach new conclusions
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
 
-* Kourtit, K.; Arribas-Bel, D.; Nijkamp, P. “Migrant Entrepreneurs as Urban Health
+* Kourtit, K.; Arribas-Bel, D.; Nijkamp, P. (in press) “Migrant Entrepreneurs as Urban Health
   Angels – Risk and Growth Strategies”. Accepted for publication in *International Planning Studies*.
+
+* Arribas-Bel, D. (2014) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". *Applied Geography*, 49: 45-53.
+
+    * [Published version](http://www.sciencedirect.com/science/article/pii/S0143622813002178)
+    * 2013 [Working Paper](http://darribas.org/data_aoe)
 
 * Arribas-Bel, D., Schmidt, C. R. (2013). "Self-organizing maps and the US urban spatial structure" *Environment and Planning B*, 2: 362-371.
     
