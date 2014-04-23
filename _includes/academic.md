@@ -124,6 +124,11 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="WorkPa"></a> Working papers
 
+* Folch, D., Arribas-Bel, D., Koschinsky, J. and Spielman, S. (2014)
+  "Uncertain Uncertainty: Spatial Variation in the Quality of American
+  Community Survey Estimates". [GeoDa Center Working
+  Paper 2014-01](http://geodacenter.asu.edu/category/public/uncertain-uncer).
+
 * Arribas-Bel, D.; Sanz Gracia, F. (2013) “On the existence of agglomeration shadows
   at the metropolitan level”.
 
