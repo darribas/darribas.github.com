@@ -124,6 +124,11 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="WorkPa"></a> Working papers
 
+* Arribas-Bel, D., Nijkamp, P. and Poot, J. (2014)
+  "How diverse can spatial measures of cultural diversity be? Results from
+  Monte Carlo simulations of an agent-based model". [CReAM Discussion Paper
+  Series, CPD 22/14](http://cream-migration.org/publ_uploads/CDP_22_14.pdf).
+
 * Folch, D., Arribas-Bel, D., Koschinsky, J. and Spielman, S. (2014)
   "Uncertain Uncertainty: Spatial Variation in the Quality of American
   Community Survey Estimates". [GeoDa Center Working
