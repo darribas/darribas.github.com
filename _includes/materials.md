@@ -2,6 +2,20 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### “Workshop on open Workflows-II“ (2014)
+
+2 day workshop jointly taught
+with [Thomas de Graaff](http://www.thomasdegraaff.net/) at the VU University. Amsterdam (Netherlands).
+
+* [Website](http://darribas.org/WooWii)
+
+### "Applications of new sources of (big) data in Regional Science" (2014)
+
+Special sessions prepared for the 61st. NARSC Meetings in Washington,
+DC. Together with [David Folch](http://davidfolch.org).
+
+* [Website](http://darribas.org/narsc2014bigdata_rs/)
+
 ### “Workshop on open Workflows“ (2014)
 
 2h. workshop jointly taught
