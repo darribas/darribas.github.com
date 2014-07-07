@@ -131,6 +131,7 @@ sources in order to establish facts and reach new conclusions
     * [CReAM Discussion Paper
   Series, CPD 22/14](http://cream-migration.org/publ_uploads/CDP_22_14.pdf)
     * [IZA DP No. 8251](http://ftp.iza.org/dp8251.pdf)
+    * [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2462417)
 
 * Folch, D., Arribas-Bel, D., Koschinsky, J. and Spielman, S. (2014)
   "Uncertain Uncertainty: Spatial Variation in the Quality of American
