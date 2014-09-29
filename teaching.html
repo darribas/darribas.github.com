@@ -3,11 +3,10 @@ layout: default
 title: Welcome
 ---
 
-<h2> Summer 2014 (June-September) </h2>
+<h2> Autumn 2014 (September-December) </h2>
 
-<p> I will be working remotely for the summer. If you would like to talk,
-contact me by <a href="mailto:D.Arribas-Bel@bham.ac.uk">email</a> and we will
-set up a video call. </p>
+{% capture teaching %}{% include teaching.md %}{% endcapture %}
+{{ teaching | markdownify }}
 
 <!--
 <h2> [IMPORTANT] Announcements and changes </h2>
