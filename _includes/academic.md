@@ -22,8 +22,10 @@ sources in order to establish facts and reach new conclusions
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
 
-* Kourtit, K.; Arribas-Bel, D.; Nijkamp, P. (in press) “Migrant Entrepreneurs as Urban Health
-  Angels – Risk and Growth Strategies”. Accepted for publication in *International Planning Studies*.
+* Kourtit, K.; Nijkamp, P.; Arribas-Bel, D. (2014) “Migrant Entrepreneurs as Urban 'Health
+  Angels' – Contrasts in Growth Strategies”. *International Planning Studies*.
+
+    * [Published version](http://www.tandfonline.com/doi/full/10.1080/13563475.2014.942496#.VCp40ee7nig)
 
 * Arribas-Bel, D. (2014) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". *Applied Geography*, 49: 45-53.
 
