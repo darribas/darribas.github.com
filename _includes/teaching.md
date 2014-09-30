@@ -37,6 +37,9 @@ If you are on my dissertation tutorial group, the following applies to you:
     * [Week 5] Thursday October 30th. 9:30am to 10:30am
     * [Week 8] Thursday November 20th. 9:30am to 10:30am
     * [Week 10] Tuesday December 2nd. 9:30am to 10:30am
+* Deadlines:
+    * [Week 2]: 500 word progress report
+    * [Week 8]: one draft chapter for detailed feedback
 
 ### Research Methods for Dissertations (GGM-201a)
 
