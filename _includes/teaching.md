@@ -9,6 +9,7 @@ Unless explicitly changed, regular hours are on:
 The following days, the hours are moved for time conflicts:
 
 * Tuesday October 10th. --> Wednesday October 8th. 4:30pm to 5:30pm
+* Tuesday October 21st. --> Tuesday October 21st. 11:30pm to 12:30pm
 * Tuesday November 4th. --> Tuesday November 4th. 4:30pm to 5:30pm
 * Thursday December 4th. --> Tuesday December 2nd. 3:30pm to 4:30pm
 
