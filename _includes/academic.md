@@ -16,13 +16,6 @@ sources in order to establish facts and reach new conclusions
 
     * [SSRN Working Paper](http://ssrn.com/abstract=2512693)
 
-* Arribas-Bel, D. (in press) "Spatial Data, Analysis, and Regression - A mini
-course". *REGION*, 1(1): R1.
-
-    * [Abstract](http://openjournals.wu.ac.at/ojs/index.php/region/article/view/42) (Open Access)
-    * [Website](http://darribas.org/sdar_mini/)
-    * [Repository](https://github.com/darribas/sdar_mini)
-
 * Arribas-Bel, D.; Sanz Gracia, F. (in press) “The Validity of the Monocentric City Model
   in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. Accepted for
   publication in *Urban Geography*.
@@ -41,6 +34,13 @@ course". *REGION*, 1(1): R1.
 
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
+
+* Arribas-Bel, D. (2014) "Spatial Data, Analysis, and Regression - A mini
+course". *REGION*, 1(1): R1.
+
+    * [Abstract](http://openjournals.wu.ac.at/ojs/index.php/region/article/view/42) (Open Access)
+    * [Website](http://darribas.org/sdar_mini/)
+    * [Repository](https://github.com/darribas/sdar_mini)
 
 * Kourtit, K.; Nijkamp, P.; Arribas-Bel, D. (2014) “Migrant Entrepreneurs as Urban 'Health
   Angels' – Contrasts in Growth Strategies”. *International Planning Studies*.
