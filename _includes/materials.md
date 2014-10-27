@@ -6,6 +6,7 @@
 
 Materials and structure suggested to run a mini course on spatial data, analysis and regression of approximately 14 hours. 
 
+* [Abstract](http://openjournals.wu.ac.at/ojs/index.php/region/article/view/42) in REGION (Open Access)
 * [Website](http://darribas.org/sdar_mini/)
 * [Repository](https://github.com/darribas/sdar_mini)
 
