@@ -11,9 +11,22 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (in press) “The size distribution of employment centers within the U.S. Metropolitan Areas”. Accepted for
+  publication in *Environment and Planning B -- Planning and Design*.
+
+    * [SSRN Working Paper](http://ssrn.com/abstract=2512693)
+
 * Arribas-Bel, D.; Sanz Gracia, F. (in press) “The Validity of the Monocentric City Model
   in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. Accepted for
   publication in *Urban Geography*.
+
+    * [Published
+            version](http://www.tandfonline.com/doi/full/10.1080/02723638.2014.940693#.U9qo10gg7VE)
+    (Open Access)
+    * [SSRN Working
+            Paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474858)
+    * [Website](http://darribas.org/us_employment_centers/) with materials,
+    code and data
 
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (in press) “Socio-Cultural Diversity and Urban
   Buzz”. Accepted for publication in *Environment and Planning C -- Government
@@ -22,8 +35,17 @@ sources in order to establish facts and reach new conclusions
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
 
-* Kourtit, K.; Arribas-Bel, D.; Nijkamp, P. (in press) “Migrant Entrepreneurs as Urban Health
-  Angels – Risk and Growth Strategies”. Accepted for publication in *International Planning Studies*.
+* Arribas-Bel, D. (2014) "Spatial Data, Analysis, and Regression - A mini
+course". *REGION*, 1(1): R1.
+
+    * [Abstract](http://openjournals.wu.ac.at/ojs/index.php/region/article/view/42) (Open Access)
+    * [Website](http://darribas.org/sdar_mini/)
+    * [Repository](https://github.com/darribas/sdar_mini)
+
+* Kourtit, K.; Nijkamp, P.; Arribas-Bel, D. (2014) “Migrant Entrepreneurs as Urban 'Health
+  Angels' – Contrasts in Growth Strategies”. *International Planning Studies*.
+
+    * [Published version](http://www.tandfonline.com/doi/full/10.1080/13563475.2014.942496#.VCp40ee7nig)
 
 * Arribas-Bel, D. (2014) "Accidental, Open and Everywhere: Emerging Data Sources for the Understanding of Cities". *Applied Geography*, 49: 45-53.
 
@@ -147,12 +169,6 @@ sources in order to establish facts and reach new conclusions
 
     * [Technical report](https://geodacenter.asu.edu/drupal_files/sperrorgmm_wp2.pdf) (pdf)
     * [Code](https://geodacenter.asu.edu/drupal_files/Code.zip) (IPython and Rstudio notebooks)
-
-* Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (2012) “The size distribution of
-  employment centers in the U.S. Metropolitan Areas”.
-
-* Arribas-Bel, D. (2009) ”How many? Using ESDA to evaluate polycentricity in the
-  US cities”.
 
 ## <a id="Software"></a> Scientific software projects
 

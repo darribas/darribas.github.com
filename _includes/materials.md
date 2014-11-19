@@ -2,12 +2,33 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### "Spatial Data, Analysis and Regression - A mini course"
+
+Materials and structure suggested to run a mini course on spatial data, analysis and regression of approximately 14 hours. 
+
+* [Abstract](http://openjournals.wu.ac.at/ojs/index.php/region/article/view/42) in REGION (Open Access)
+* [Website](http://darribas.org/sdar_mini/)
+* [Repository](https://github.com/darribas/sdar_mini)
+
+### `quant_geog`
+
+Slides for a 1h. lecture to second year Geography students introducing the field of quantitative geography
+
+* [Slides](darribas.org/quant_geog/)
+* [Repository](https://github.com/darribas/quant_geog)
+
 ### “Workshop on open Workflows-II“ (2014)
 
 2 day workshop jointly taught
 with [Thomas de Graaff](http://www.thomasdegraaff.net/) at the VU University. Amsterdam (Netherlands).
 
 * [Website](http://darribas.org/WooWii)
+
+### "Big Data for Urban and Regional Analysis" (2015)
+
+Special sessions prepared for the 2015 AAG meeting in Chicago, IL. Together with [David Folch](http://davidfolch.org) and [Emmanouil Tranos](http://www.birmingham.ac.uk/staff/profiles/gees/tranos-emmanouil.aspx).
+
+* [Website](http://darribas.org/aag2015bigdata_ura/)
 
 ### "Applications of new sources of (big) data in Regional Science" (2014)
 
