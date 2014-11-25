@@ -11,6 +11,10 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Gerritse, M. (in press) “From manufacturing belt, to rust
+  belt, to college country - A Visual Narrative of the US Urban Growth”. Accepted for
+  publication in *Environment and Planning A*.
+
 * Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (in press) “The size distribution of employment centers within the U.S. Metropolitan Areas”. Accepted for
   publication in *Environment and Planning B -- Planning and Design*.
 
