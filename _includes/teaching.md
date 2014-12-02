@@ -1,6 +1,10 @@
 
 ### General office hours
 
+**IMPORTANT**: please [contact me](mailto:d.arribas-bel@bham.ac.uk) in advance
+if you want to come by office hours so I make sure there is no conflict with
+other students.
+
 Unless explicitly changed, regular hours are on:
 
 * Tuesdays 2:30pm to 3:30pm
