@@ -10,6 +10,10 @@ Unless explicitly changed, regular hours are on:
 * Tuesdays 2:30pm to 3:30pm
 * Thursdays 10:30am to 11:30am
 
+With the following exceptions:
+
+* Tuesday March 10th. --> Monday March 9th (2:30pm to 3:30pm)
+
 ### First Year Tutorials (GGM-105)
 
 If you are on my First Year tutorial group, the following applies to you:
