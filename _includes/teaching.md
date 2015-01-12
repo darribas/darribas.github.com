@@ -21,25 +21,11 @@ If you are on my First Year tutorial group, the following applies to you:
 * Weekly meetings: **Thursdays 12pm - 1pm**, office G36 (GEES groundfloor).
 * Course reference website: [http://darribas.org/GGM-105_14-15/](http://darribas.org/GGM-105_14-15/)
 
-### Dissertation tutorials (GGM-301)
+### Dissertation supervision (GGM-301)
 
-If you are on my dissertation tutorial group, the following applies to you:
-
-* Tutorial sessions:
-    * [Week 2] Friday October 10th. 9:30am to 10:30am
-    * [Week 4] Thursday October 23rd. 9:30am to 10:30am
-    * [Week 6] Thursday November 6th. 9:30am to 10:30am
-    * [Week 8] Tuesday November 18th. 9:30am to 10:30am
-    * [Week 9] Thursday November 27th. 9:30am to 10:30am
-* Office hours:
-    * [Week 1] Thursday October 2nd. 9:30am to 10:30am
-    * [Week 3] Thursday October 16th. 9:30am to 10:30am
-    * [Week 5] Thursday October 30th. 9:30am to 10:30am
-    * [Week 8] Thursday November 20th. 9:30am to 10:30am
-    * [Week 10] Tuesday December 2nd. 9:30am to 10:30am
-* Deadlines:
-    * [Week 2]: 500 word progress report
-    * [Week 8]: one draft chapter for detailed feedback
+There are no special office hours or tutorials scheduled for third year
+dissertations in this term. If you are my tutee and want to talk to me about
+your dissertation, please use the general office hours.
 
 ### Research Methods for Dissertations (GGM-201a)
 
