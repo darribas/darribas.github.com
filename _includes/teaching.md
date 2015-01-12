@@ -10,20 +10,11 @@ Unless explicitly changed, regular hours are on:
 * Tuesdays 2:30pm to 3:30pm
 * Thursdays 10:30am to 11:30am
 
-The following days, the hours are moved for time conflicts:
-
-* Tuesday October 10th. --> Wednesday October 8th. 4:30pm to 5:30pm
-* Tuesday October 21st. --> Tuesday October 21st. 11:30pm to 12:30pm
-* Tuesday November 4th. --> Tuesday November 4th. 4:30pm to 5:30pm
-* Thursday December 4th. --> Tuesday December 2nd. 3:30pm to 4:30pm
-
 ### First Year Tutorials (GGM-105)
 
 If you are on my First Year tutorial group, the following applies to you:
 
 * Weekly meetings: **Thursdays 12pm - 1pm**, office G36 (GEES groundfloor).
-  With the following exceptions:
-    * Thursday December 4th. --> Tuesday December 2nd. 12pm to 1pm
 * Course reference website: [http://darribas.org/GGM-105_14-15/](http://darribas.org/GGM-105_14-15/)
 
 ### Dissertation tutorials (GGM-301)
