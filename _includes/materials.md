@@ -2,6 +2,14 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### HOT-OSM practical
+
+Slides to teach highschool students how to edit OpenStreetMap in 15 minutes.
+Used in Applicant Visit Days at the University of Birmingham (UK).
+
+* [Slides](http://darribas.org/bham_avd_osm/)
+* [Repository](https://github.com/darribas/bham_avd_osm)
+
 ### "Spatial Data, Analysis and Regression - A mini course"
 
 Materials and structure suggested to run a mini course on spatial data, analysis and regression of approximately 14 hours. 
