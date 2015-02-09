@@ -20,9 +20,15 @@ sources in order to establish facts and reach new conclusions
 
     * [SSRN Working Paper](http://ssrn.com/abstract=2512693)
 
-* Arribas-Bel, D.; Sanz Gracia, F. (in press) “The Validity of the Monocentric City Model
-  in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. Accepted for
-  publication in *Urban Geography*.
+* Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (in press) “Socio-Cultural Diversity and Urban
+  Buzz”. Accepted for publication in *Environment and Planning C -- Government
+  and Policy*.
+
+    * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
+    * [Reproducible kit](http://darribas.org/buzz_adam)
+
+* Arribas-Bel, D.; Sanz Gracia, F. (2014) “The Validity of the Monocentric City Model
+  in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. *Urban Geography*, 35(7): 980-997.
 
     * [Published
             version](http://www.tandfonline.com/doi/full/10.1080/02723638.2014.940693#.U9qo10gg7VE)
@@ -31,13 +37,6 @@ sources in order to establish facts and reach new conclusions
             Paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474858)
     * [Website](http://darribas.org/us_employment_centers/) with materials,
     code and data
-
-* Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (in press) “Socio-Cultural Diversity and Urban
-  Buzz”. Accepted for publication in *Environment and Planning C -- Government
-  and Policy*.
-
-    * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
-    * [Reproducible kit](http://darribas.org/buzz_adam)
 
 * Arribas-Bel, D. (2014) "Spatial Data, Analysis, and Regression - A mini
 course". *REGION*, 1(1): R1.
