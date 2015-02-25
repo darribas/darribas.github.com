@@ -15,17 +15,19 @@ sources in order to establish facts and reach new conclusions
   belt, to college country - A Visual Narrative of the US Urban Growth”. Accepted for
   publication in *Environment and Planning A*.
 
-* Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (in press) “The size distribution of employment centers within the U.S. Metropolitan Areas”. Accepted for
-  publication in *Environment and Planning B -- Planning and Design*.
-
-    * [SSRN Working Paper](http://ssrn.com/abstract=2512693)
-
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (in press) “Socio-Cultural Diversity and Urban
   Buzz”. Accepted for publication in *Environment and Planning C -- Government
   and Policy*.
 
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
+
+* Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (2015) “The size distribution of
+employment centers within the U.S. Metropolitan Areas”. *Environment and
+Planning B -- Planning and Design*, 42: 23-39.
+
+    * [Published version](http://www.envplan.com/abstract.cgi?id=b39038)
+    * [SSRN Working Paper](http://ssrn.com/abstract=2512693)
 
 * Arribas-Bel, D.; Sanz Gracia, F. (2014) “The Validity of the Monocentric City Model
   in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. *Urban Geography*, 35(7): 980-997.
