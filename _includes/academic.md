@@ -15,6 +15,9 @@ sources in order to establish facts and reach new conclusions
   belt, to college country - A Visual Narrative of the US Urban Growth”. Accepted for
   publication in *Environment and Planning A*.
 
+    * [Published version](http://www.envplan.com/abstract.cgi?id=a140387p)
+    * [Website](http://darribas.org/belts/index.html)
+
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (in press) “Socio-Cultural Diversity and Urban
   Buzz”. Accepted for publication in *Environment and Planning C -- Government
   and Policy*.
