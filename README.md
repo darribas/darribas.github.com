@@ -13,13 +13,9 @@ theme is also licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/
 alt="Creative Commons License" style="border-width:0"
 src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span
 xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
-property="dct:title" rel="dct:type">Results and code for &quot;<i>From
-manufacturing belt, to rust belt, to college country</i> - A Visual Narrative of the US Urban Growth
-&quot;</span> by <a
+property="dct:title" rel="dct:type">The theme for this website</span> by <a
 xmlns:cc="http://creativecommons.org/ns#" href="http://darribas.org"
-property="cc:attributionName" rel="cc:attributionURL">Daniel Arribas-Bel</a> and <a
-xmlns:cc="http://creativecommons.org/ns#" href="https://sites.google.com/site/michielgerritse/"
-property="cc:attributionName" rel="cc:attributionURL">Michiel Gerritse</a> is licensed under a <a rel="license"
+property="cc:attributionName" rel="cc:attributionURL">Daniel Arribas-Bel</a> is licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 
 
