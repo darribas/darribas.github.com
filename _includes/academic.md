@@ -32,6 +32,12 @@ Planning B -- Planning and Design*, 42: 23-39.
     * [Published version](http://www.envplan.com/abstract.cgi?id=b39038)
     * [SSRN Working Paper](http://ssrn.com/abstract=2512693)
 
+* Arribas-Bel, D.; Kourtit, K.; Nijkamp, P.; Steenbruggen, J. (2015) “Cyber Cities: Social
+Media as a Tool for Understanding Cities”. *Applied Spatial Analysis and Policy*.
+
+    * [Published version](http://link.springer.com/article/10.1007/s12061-015-9154-2)
+
+
 * Arribas-Bel, D.; Sanz Gracia, F. (2014) “The Validity of the Monocentric City Model
   in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. *Urban Geography*, 35(7): 980-997.
 
