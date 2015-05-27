@@ -16,7 +16,8 @@ xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
 property="dct:title" rel="dct:type">The theme for this website</span> by <a
 xmlns:cc="http://creativecommons.org/ns#" href="http://darribas.org"
 property="cc:attributionName" rel="cc:attributionURL">Daniel Arribas-Bel</a> is licensed under a <a rel="license"
-href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+href="http://creativecommons.org/licenses/by-sa/3.0/">Attribution-ShareAlike
+3.0 Unported</a>.</p>
 
 
 
