@@ -25,6 +25,13 @@ sources in order to establish facts and reach new conclusions
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
 
+* Arribas-Bel, D., Graaff, T. (2015) “WooW-II: Workshop on open workflows”. *REGION*, 2(2): R1-R2.
+
+    * [Published
+            version](http://openjournals.wu.ac.at/ojs/index.php/region/article/view/85)
+    (Open Access)
+    * [Course website](http://darribas.org/WooWii/) (CC-BY licensed)
+
 * Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (2015) “The size distribution of
 employment centers within the U.S. Metropolitan Areas”. *Environment and
 Planning B -- Planning and Design*, 42: 23-39.
