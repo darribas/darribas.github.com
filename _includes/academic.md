@@ -25,6 +25,11 @@ sources in order to establish facts and reach new conclusions
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
 
+* Arribas-Bel, D. (2015) "The spoken postcodes". *Regional Studies, Regional Science*, 2(1): 457-460.
+
+    * [Published version](http://www.tandfonline.com/doi/figure/10.1080/21681376.2015.1067151#.VdIbJ3gfyTA) (Open Access)
+    * [Additional material repository](https://github.com/darribas/spoken_postcodes_rsrs)
+
 * Arribas-Bel, D., Graaff, T. (2015) “WooW-II: Workshop on open workflows”. *REGION*, 2(2): R1-R2.
 
     * [Published
