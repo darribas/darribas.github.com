@@ -25,12 +25,30 @@ sources in order to establish facts and reach new conclusions
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
 
+* Arribas-Bel, D. (2015) "The spoken postcodes". *Regional Studies, Regional Science*, 2(1): 457-460.
+
+    * [Published version](http://www.tandfonline.com/doi/figure/10.1080/21681376.2015.1067151#.VdIbJ3gfyTA) (Open Access)
+    * [Additional material repository](https://github.com/darribas/spoken_postcodes_rsrs)
+
+* Arribas-Bel, D., Graaff, T. (2015) “WooW-II: Workshop on open workflows”. *REGION*, 2(2): R1-R2.
+
+    * [Published
+            version](http://openjournals.wu.ac.at/ojs/index.php/region/article/view/85)
+    (Open Access)
+    * [Course website](http://darribas.org/WooWii/) (CC-BY licensed)
+
 * Arribas-Bel, D.; Ramos, A.; Sanz Gracia, F. (2015) “The size distribution of
 employment centers within the U.S. Metropolitan Areas”. *Environment and
 Planning B -- Planning and Design*, 42: 23-39.
 
     * [Published version](http://www.envplan.com/abstract.cgi?id=b39038)
     * [SSRN Working Paper](http://ssrn.com/abstract=2512693)
+
+* Arribas-Bel, D.; Kourtit, K.; Nijkamp, P.; Steenbruggen, J. (2015) “Cyber Cities: Social
+Media as a Tool for Understanding Cities”. *Applied Spatial Analysis and Policy*.
+
+    * [Published version](http://link.springer.com/article/10.1007/s12061-015-9154-2)
+
 
 * Arribas-Bel, D.; Sanz Gracia, F. (2014) “The Validity of the Monocentric City Model
   in a Polycentric Age: US Metropolitan areas in 1990, 2000 and 2010”. *Urban Geography*, 35(7): 980-997.
