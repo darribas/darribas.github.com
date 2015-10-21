@@ -22,7 +22,7 @@ Materials and structure suggested to run a mini course on spatial data, analysis
 
 Slides for a 1h. lecture to second year Geography students introducing the field of quantitative geography
 
-* [Slides](darribas.org/quant_geog/)
+* [Slides](http://darribas.org/quant_geog/)
 * [Repository](https://github.com/darribas/quant_geog)
 
 ### “Workshop on open Workflows-II“ (2014)
