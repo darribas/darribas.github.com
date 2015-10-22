@@ -11,19 +11,19 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Arribas-Bel, D.; Gerritse, M. (in press) “From manufacturing belt, to rust
-  belt, to college country - A Visual Narrative of the US Urban Growth”. Accepted for
-  publication in *Environment and Planning A*.
-
-    * [Published version](http://www.envplan.com/abstract.cgi?id=a140387p)
-    * [Website](http://darribas.org/belts/index.html)
-
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (in press) “Socio-Cultural Diversity and Urban
   Buzz”. Accepted for publication in *Environment and Planning C -- Government
   and Policy*.
 
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
     * [Reproducible kit](http://darribas.org/buzz_adam)
+
+* Arribas-Bel, D.; Gerrtise, M. (2015) “From manufacturing belt, to rust belt, to college 
+  country - A Visual Narrative of the US Urban Growth”. Environment and Planning A,
+  47(6): 1241-1253.
+
+    * [Published version](http://www.envplan.com/abstract.cgi?id=a140387p)
+    * [Website](http://darribas.org/belts/index.html)
 
 * Arribas-Bel, D. (2015) "The spoken postcodes". *Regional Studies, Regional Science*, 2(1): 457-460.
 
