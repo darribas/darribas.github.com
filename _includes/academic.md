@@ -13,7 +13,7 @@ sources in order to establish facts and reach new conclusions
 
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (2015) “Socio-Cultural Diversity and Urban
   Buzz”. Accepted for publication in *Environment and Planning C -- Government
-  and Policy*.
+  and Policy*, 33: 1-17.
 
     * [Published version](http://epc.sagepub.com/content/early/2015/11/26/0263774X15614711.abstract)
     * 2013 [Tinbergen Discussion Paper](http://www.tinbergen.nl/discussionpaper/?paper=2150)
