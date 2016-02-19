@@ -2,6 +2,15 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### GDS'15
+
+Material and website for the course Geographic Data Science'15, taught
+at the University of Liverpool. The course was open to
+last year undergraduate and master students.
+
+* [Website](http://darribas.org/gds15)
+* [Repository](https://github.com/darribas/gds15)
+
 ### HOT-OSM practical
 
 Slides to teach highschool students how to edit OpenStreetMap in 15 minutes.
