@@ -2,7 +2,7 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
-### GDS'15
+### GDS'15 (2015)
 
 Material and website for the course Geographic Data Science'15, taught
 at the University of Liverpool. The course was open to
@@ -11,7 +11,7 @@ last year undergraduate and master students.
 * [Website](http://darribas.org/gds15)
 * [Repository](https://github.com/darribas/gds15)
 
-### HOT-OSM practical
+### HOT-OSM practical (2015)
 
 Slides to teach highschool students how to edit OpenStreetMap in 15 minutes.
 Used in Applicant Visit Days at the University of Birmingham (UK).
@@ -19,7 +19,7 @@ Used in Applicant Visit Days at the University of Birmingham (UK).
 * [Slides](http://darribas.org/bham_avd_osm/)
 * [Repository](https://github.com/darribas/bham_avd_osm)
 
-### "Spatial Data, Analysis and Regression - A mini course"
+### "Spatial Data, Analysis and Regression - A mini course" (2014)
 
 Materials and structure suggested to run a mini course on spatial data, analysis and regression of approximately 14 hours. 
 
@@ -27,7 +27,7 @@ Materials and structure suggested to run a mini course on spatial data, analysis
 * [Website](http://darribas.org/sdar_mini/)
 * [Repository](https://github.com/darribas/sdar_mini)
 
-### `quant_geog`
+### `quant_geog` (2014)
 
 Slides for a 1h. lecture to second year Geography students introducing the field of quantitative geography
 
