@@ -2,6 +2,13 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### Points -- Kernel Density Estimation and Spatial Interpolation
+
+Material and code for a 2h session at the MSc. level to introduce kernel
+density estimation and spatial interpolation in R.
+
+* [Website](http://darribas.org/kde_idw_r/)
+
 ### GDS'15 (2015)
 
 Material and website for the course Geographic Data Science'15, taught
