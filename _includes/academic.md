@@ -11,6 +11,10 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Folch, D.; Arribas-Bel, D.; Koschinsky, K; Spielman, S. (*in press*). “Spatial Variation in the Quality of American Community Survey Estimates”. *Demography*.
+
+    * [GeoDa Center Working Paper 2014-01](https://geodacenter.asu.edu/category/public/spatial-variati)
+
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (2015) “Socio-Cultural Diversity and Urban
   Buzz”. Accepted for publication in *Environment and Planning C -- Government
   and Policy*, 33: 1-17.
@@ -181,11 +185,6 @@ course". *REGION*, 1(1): R1.
   Series, CPD 22/14](http://cream-migration.org/publ_uploads/CDP_22_14.pdf)
     * [IZA DP No. 8251](http://ftp.iza.org/dp8251.pdf)
     * [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2462417)
-
-* Folch, D., Arribas-Bel, D., Koschinsky, J. and Spielman, S. (2014)
-  "Uncertain Uncertainty: Spatial Variation in the Quality of American
-  Community Survey Estimates". [GeoDa Center Working
-  Paper 2014-01](http://geodacenter.asu.edu/category/public/uncertain-uncer).
 
 * Arribas-Bel, D.; Sanz Gracia, F. (2013) “On the existence of agglomeration shadows
   at the metropolitan level”.
