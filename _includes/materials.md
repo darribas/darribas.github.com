@@ -2,12 +2,12 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
-### Points -- Kernel Density Estimation and Spatial Interpolation
+### Spatial Analysis Notes
 
-Material and code for a 2h session at the MSc. level to introduce kernel
-density estimation and spatial interpolation in R.
+Collection of computational notes in R used to teach several topics in spatial
+analysis at the (last year) undergraduate/Masters level.
 
-* [Website](http://darribas.org/kde_idw_r/)
+* [Website](http://darribas.org/spa_notes/)
 
 ### GDS'15 (2015)
 
