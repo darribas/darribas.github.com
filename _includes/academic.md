@@ -11,6 +11,15 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D., Nijkamp, P. and Poot, J. (*in press*).
+  "How diverse can measures of segregation be? Results from Monte Carlo simulations of an agent-based model". *Environment and Planning A*.
+
+    * [Website](http://darribas.org/diversity_abm/)
+    * [CReAM Discussion Paper
+  Series, CPD 22/14](http://cream-migration.org/publ_uploads/CDP_22_14.pdf)
+    * [IZA DP No. 8251](http://ftp.iza.org/dp8251.pdf)
+    * [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2462417)
+
 * Folch, D.; Arribas-Bel, D.; Koschinsky, K; Spielman, S. (*in press*). “Spatial Variation in the Quality of American Community Survey Estimates”. *Demography*.
 
     * [GeoDa Center Working Paper 2014-01](https://geodacenter.asu.edu/category/public/spatial-variati)
@@ -176,15 +185,6 @@ course". *REGION*, 1(1): R1.
       version](http://www.elgaronline.com/abstract/9780857934611.00029.xml)
 
 ## <a id="WorkPa"></a> Working papers
-
-* Arribas-Bel, D., Nijkamp, P. and Poot, J. (2014)
-  "How diverse can spatial measures of cultural diversity be? Results from
-  Monte Carlo simulations of an agent-based model". 
-
-    * [CReAM Discussion Paper
-  Series, CPD 22/14](http://cream-migration.org/publ_uploads/CDP_22_14.pdf)
-    * [IZA DP No. 8251](http://ftp.iza.org/dp8251.pdf)
-    * [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2462417)
 
 * Arribas-Bel, D.; Sanz Gracia, F. (2013) “On the existence of agglomeration shadows
   at the metropolitan level”.
