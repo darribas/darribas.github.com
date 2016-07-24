@@ -2,6 +2,13 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### Geographic Data Science with PySAL and the pydata stack
+
+Workshop co-taught with Serge Rey at SciPy'16 in Austin (TX).
+
+* [Website](http://darribas.org/gds_scipy16/)
+* [Video](https://youtu.be/TY4QWnnd4jY?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
+
 ### Spatial Analysis Notes
 
 Collection of computational notes in R used to teach several topics in spatial
