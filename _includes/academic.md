@@ -183,6 +183,8 @@ course". *REGION*, 1(1): R1.
 
 ## <a id="WorkPa"></a> Working papers
 
+* Arribas-Bel, D.; Tranos, E. (2016) "Characterizing the Spatial Structure(s) of Cities “on the fly”: the Space- Time LISA Calendar". [[SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2817330)]
+
 * Arribas-Bel, D.; Sanz Gracia, F. (2013) “On the existence of agglomeration shadows
   at the metropolitan level”.
 
