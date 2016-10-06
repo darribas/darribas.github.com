@@ -11,14 +11,16 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Arribas-Bel, D., Nijkamp, P. and Poot, J. (*in press*).
-  "How diverse can measures of segregation be? Results from Monte Carlo simulations of an agent-based model". *Environment and Planning A*.
+* Arribas-Bel, D., Nijkamp, P. and Poot, J. (2016).
+  "How diverse can measures of segregation be? Results from Monte Carlo simulations of an agent-based model". *Environment and Planning A*. Vol. 48, No. 10.
 
+    * [Published Paper](http://epn.sagepub.com/content/48/10/2046.abstract)
     * [Website](http://darribas.org/diversity_abm/)
     * Working paper [[CReAM](http://cream-migration.org/publ_uploads/CDP_22_14.pdf)] [[IZA](http://ftp.iza.org/dp8251.pdf)] [[SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2462417)]
 
-* Folch, D.; Arribas-Bel, D.; Koschinsky, K; Spielman, S. (*in press*). “Spatial Variation in the Quality of American Community Survey Estimates”. *Demography*.
+* Folch, D.; Arribas-Bel, D.; Koschinsky, K; Spielman, S. (2016). “Spatial Variation in the Quality of American Community Survey Estimates”. *Demography*. 53: 1535.
 
+    * [Published paper](http://link.springer.com/article/10.1007/s13524-016-0499-1)
     * [GeoDa Center Working Paper 2014-01](https://geodacenter.asu.edu/category/public/spatial-variati)
 
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (2015) “Socio-Cultural Diversity and Urban
