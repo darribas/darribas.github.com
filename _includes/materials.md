@@ -2,6 +2,14 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### Explore Liverpool Students
+
+Interactive tutorial exploring Liverpool. Used as computer practical (30min.
+approx) in Geography at the Applicant Discovery Days of the University of Liverpool.
+Developed with [Mark Green](https://twitter.com/markalangreen).
+
+* [Website](http://darribas.org/explore_liv_students/)
+
 ### Geographic Data Science with PySAL and the pydata stack
 
 Workshop co-taught with Serge Rey at SciPy'16 in Austin (TX).
