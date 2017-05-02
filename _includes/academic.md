@@ -175,6 +175,10 @@ course". *REGION*, 1(1): R1.
  
 ## <a id="BookCh"></a> Book chapters
 
+* de Graaff, T; Arribas-Bel, D.; Ozgen, C. (2017) "Demographic Aging and Employment Dynamics in German Regions: Modeling Regional Heterogeneity".
+
+    * [IZA working paper](http://legacy.iza.org/en/webcontent/publications/papers/viewAbstract?dp_id=10734)
+
 * Kourtit, K.; Nijkamp, P.; Arribas-Bel, D. (2013) “The Creative Urban Diaspora
   Economy: A Disparity Analysis among Migrant Entrepreneurs.” In: *Handbook of
   Research Methods and Applications in Urban Economies* (Kresl, P., Vaughan,
