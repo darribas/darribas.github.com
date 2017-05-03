@@ -11,6 +11,13 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel D., Patino J.E., Duque J.C. (2017).
+  "Remote sensing-based measurement of Living Environment Deprivation: Improving classical approaches with machine learning". PLOS ONE. 12(5): e0176684.
+
+    * [Published Paper](https://doi.org/10.1371/journal.pone.0176684)
+      (Open Access)
+    * [Data and code](https://github.com/darribas/satellite_led_liverpool) repository
+
 * Arribas-Bel, D., Nijkamp, P. and Poot, J. (2016).
   "How diverse can measures of segregation be? Results from Monte Carlo simulations of an agent-based model". *Environment and Planning A*. Vol. 48, No. 10.
 
