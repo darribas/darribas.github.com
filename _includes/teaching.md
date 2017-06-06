@@ -1,10 +1,18 @@
-## Autumn 2016
+## Autumn 2018
 
 * Geographic Data Science (ENVS3/563) [[url](http://darribas.org/gds16/)]
 
 ## Previous teaching
 
 In the past, I have taught the following modules:
+
+**[2016/17]** University of Liverpool (UK)
+
+* [Geographic Data Science](http://darribas.org/gds16/) (ENVS 363/563)
+* Second Year Tutorials (ENVS 203)
+* First Year Tutorials (ENVS 100)
+* Barcelona Fieldtrip (ENVS 350)
+* Spatial Analysis (ENVS 453) [[Computational notes](http://darribas.org/spa_notes/)]
 
 **[2015/16]** University of Liverpool (UK)
 
