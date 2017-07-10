@@ -11,6 +11,10 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Harris, R., O’Sullivan, D., Gahegan, M., Charlton, M., Comber, L., Longley, P., Brunsdon, C., Malleson, N., Heppenstall, A., Singleton, A., Arribas-Bel, D,. Evans, A. (2017) “More bark than bytes? Reflections on 21+ years of geocomputation”. Environment and Planning B: Urban Analytics and City Science. 44(4): 598-617.
+
+    * [Published Commentary](http://journals.sagepub.com/eprint/w8cyKwmUSwrQ9KDrJABu/full) (Open Access)
+
 * Arribas-Bel D., Patino J.E., Duque J.C. (2017).
   "Remote sensing-based measurement of Living Environment Deprivation: Improving classical approaches with machine learning". PLOS ONE. 12(5): e0176684.
 
