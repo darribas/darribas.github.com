@@ -22,6 +22,11 @@ sources in order to establish facts and reach new conclusions
       (Open Access)
     * [Data and code](https://github.com/darribas/satellite_led_liverpool) repository
 
+* Arribas-Bel, D., T. de Graaff and S.J. Rey (2017). “Looking at John Snow’s cholera map from the XXIst century: a practical primer on Reproducibility and Open Science. In: Regional Research Fontiers (R.W. Jackson and P. Schaeffer, eds.). Springer.
+
+    * [Book Chapter](https://link.springer.com/chapter/10.1007/978-3-319-50590-9_17)
+    * [Open Repository](https://bitbucket.org/darribas/reproducible_john_snow)
+
 * Arribas-Bel, D., Nijkamp, P. and Poot, J. (2016).
   "How diverse can measures of segregation be? Results from Monte Carlo simulations of an agent-based model". *Environment and Planning A*. Vol. 48, No. 10.
 
