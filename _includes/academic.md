@@ -11,6 +11,15 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Tranos, E. (2017, *in press*).
+  "Characterizing the Spatial Structure(s) of Cities 
+  “on the fly”: the Space-Time Calendar". Geographical Analysis.
+
+* Wolf, L.; Anselin, L.; Arribas-Bel, D. (2017, *in press*).
+  "Stochastic Efficiency of Bayesian MCMC in Spatial Econometric 
+  Models: An Empirical Comparison".
+  Geographical Analysis.
+
 * Harris, R., O’Sullivan, D., Gahegan, M., Charlton, M., Comber, L., Longley, P., Brunsdon, C., Malleson, N., Heppenstall, A., Singleton, A., Arribas-Bel, D,. Evans, A. (2017) “More bark than bytes? Reflections on 21+ years of geocomputation”. Environment and Planning B: Urban Analytics and City Science. 44(4): 598-617.
 
     * [Published Commentary](http://journals.sagepub.com/eprint/w8cyKwmUSwrQ9KDrJABu/full) (Open Access)
