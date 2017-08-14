@@ -32,6 +32,7 @@ sources in order to establish facts and reach new conclusions
 
     * [Published Paper](http://epn.sagepub.com/content/48/10/2046.abstract)
     * [Website](http://darribas.org/diversity_abm/)
+    * [Accepted Version](https://livrepository.liverpool.ac.uk/3006508/)
     * Working paper [[CReAM](http://cream-migration.org/publ_uploads/CDP_22_14.pdf)] [[IZA](http://ftp.iza.org/dp8251.pdf)] [[SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2462417)]
 
 * Folch, D.; Arribas-Bel, D.; Koschinsky, K; Spielman, S. (2016). “Spatial Variation in the Quality of American Community Survey Estimates”. *Demography*. 53: 1535.
