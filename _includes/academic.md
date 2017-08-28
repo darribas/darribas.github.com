@@ -20,12 +20,17 @@ sources in order to establish facts and reach new conclusions
   Models: An Empirical Comparison".
   Geographical Analysis.
 
-* Harris, R., O’Sullivan, D., Gahegan, M., Charlton, M., Comber, L., Longley, P., Brunsdon, C., Malleson, N., Heppenstall, A., Singleton, A., Arribas-Bel, D,. Evans, A. (2017) “More bark than bytes? Reflections on 21+ years of geocomputation”. Environment and Planning B: Urban Analytics and City Science. 44(4): 598-617.
+* Comber, S., Arribas-Bel D. "’Waiting on the train’: The anticipatory
+  (causal) effects of Crossrail in Ealing". *Journal of Transport Geography*. Vol. 64.
+
+    * [Published Paper](http://www.sciencedirect.com/science/article/pii/S0966692317300820) (Open Access)
+
+* Harris, R., O’Sullivan, D., Gahegan, M., Charlton, M., Comber, L., Longley, P., Brunsdon, C., Malleson, N., Heppenstall, A., Singleton, A., Arribas-Bel, D,. Evans, A. (2017) “More bark than bytes? Reflections on 21+ years of geocomputation”. *Environment and Planning B: Urban Analytics and City Science*. 44(4): 598-617.
 
     * [Published Commentary](http://journals.sagepub.com/eprint/w8cyKwmUSwrQ9KDrJABu/full) (Open Access)
 
 * Arribas-Bel D., Patino J.E., Duque J.C. (2017).
-  "Remote sensing-based measurement of Living Environment Deprivation: Improving classical approaches with machine learning". PLOS ONE. 12(5): e0176684.
+  "Remote sensing-based measurement of Living Environment Deprivation: Improving classical approaches with machine learning". *PLOS ONE*. 12(5): e0176684.
 
     * [Published Paper](https://doi.org/10.1371/journal.pone.0176684)
       (Open Access)
@@ -50,7 +55,7 @@ sources in order to establish facts and reach new conclusions
     * [GeoDa Center Working Paper 2014-01](https://geodacenter.asu.edu/category/public/spatial-variati)
 
 * Arribas-Bel, D.; Kourtit, K.; Nijkamp, P. (2015) “Socio-Cultural Diversity and Urban
-  Buzz”. Accepted for publication in *Environment and Planning C -- Government
+  Buzz”. *Environment and Planning C -- Government
   and Policy*, 33: 1-17.
 
     * [Published version](http://epc.sagepub.com/content/early/2015/11/26/0263774X15614711.abstract)
