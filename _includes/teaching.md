@@ -1,6 +1,8 @@
-## Autumn 2018
+## Autumn 2017
 
-* Geographic Data Science (ENVS3/563) [[url](http://darribas.org/gds16/)]
+* Geographic Data Science (ENVS3/563) [[url](http://darribas.org/gds17/)]
+* Second Year Tutorials (ENVS 203)
+* First Year Tutorials (ENVS 100)
 
 ## Previous teaching
 
