@@ -11,10 +11,12 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Arribas-Bel, D.; Tranos, E. (2017, *in press*).
+* Arribas-Bel, D.; Tranos, E. (2017).
   "Characterizing the Spatial Structure(s) of Cities 
   “on the fly”: the Space-Time Calendar". Geographical Analysis.
 
+    * [Published version](http://onlinelibrary.wiley.com/doi/10.1111/gean.12137/abstract) (paywalled)
+    * [Accepted version](http://livrepository.liverpool.ac.uk/id/eprint/3008969)
     * [Code](https://github.com/darribas/space-time_calendar) repository
     * [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2817330) Abstract
 
