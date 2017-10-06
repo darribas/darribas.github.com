@@ -1,2 +1,3 @@
 markdown: rdiscount
+highlighter: kramdown
 permalink: /:title
