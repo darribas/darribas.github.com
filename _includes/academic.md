@@ -13,17 +13,24 @@ sources in order to establish facts and reach new conclusions
 
 * Arribas-Bel, D.; Tranos, E. (2017).
   "Characterizing the Spatial Structure(s) of Cities 
-  “on the fly”: the Space-Time Calendar". Geographical Analysis.
+  “on the fly”: the Space-Time Calendar". *Geographical Analysis*.
 
     * [Published version](http://onlinelibrary.wiley.com/doi/10.1111/gean.12137/abstract) (paywalled)
     * [Accepted version](http://livrepository.liverpool.ac.uk/id/eprint/3008969)
     * [Code](https://github.com/darribas/space-time_calendar) repository
     * [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2817330) Abstract
 
+* Arribas-Bel D., Patino J.E., Duque J.C. (2017).
+  "Remote sensing-based measurement of Living Environment Deprivation: Improving classical approaches with machine learning". *PLOS ONE*. 12(5): e0176684.
+
+    * [Published Paper](https://doi.org/10.1371/journal.pone.0176684)
+      (Open Access)
+    * [Data and code](https://github.com/darribas/satellite_led_liverpool) repository
+
 * Wolf, L.; Anselin, L.; Arribas-Bel, D. (2017).
   "Stochastic Efficiency of Bayesian MCMC in Spatial Econometric 
   Models: An Empirical Comparison".
-  Geographical Analysis.
+  *Geographical Analysis*.
 
     * [Published Paper](http://onlinelibrary.wiley.com/doi/10.1111/gean.12135/abstract)
 
@@ -36,13 +43,6 @@ sources in order to establish facts and reach new conclusions
 * Harris, R., O’Sullivan, D., Gahegan, M., Charlton, M., Comber, L., Longley, P., Brunsdon, C., Malleson, N., Heppenstall, A., Singleton, A., Arribas-Bel, D,. Evans, A. (2017) “More bark than bytes? Reflections on 21+ years of geocomputation”. *Environment and Planning B: Urban Analytics and City Science*. 44(4): 598-617.
 
     * [Published Commentary](http://journals.sagepub.com/eprint/w8cyKwmUSwrQ9KDrJABu/full) (Freely accessible)
-
-* Arribas-Bel D., Patino J.E., Duque J.C. (2017).
-  "Remote sensing-based measurement of Living Environment Deprivation: Improving classical approaches with machine learning". *PLOS ONE*. 12(5): e0176684.
-
-    * [Published Paper](https://doi.org/10.1371/journal.pone.0176684)
-      (Open Access)
-    * [Data and code](https://github.com/darribas/satellite_led_liverpool) repository
 
 * Arribas-Bel, D., T. de Graaff and S.J. Rey (2017). “Looking at John Snow’s cholera map from the XXIst century: a practical primer on Reproducibility and Open Science. In: Regional Research Fontiers (R.W. Jackson and P. Schaeffer, eds.). Springer.
 
