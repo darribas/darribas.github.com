@@ -27,6 +27,10 @@ sources in order to establish facts and reach new conclusions
       (Open Access)
     * [Data and code](https://github.com/darribas/satellite_led_liverpool) repository
 
+* Gerritse, M.; Arribas-Bel, D. (2017) "Concrete agglomeration benefits: do roads improve urban connections or just attract more people?". *Regional Studies*.
+
+    * [Published version](http://rsa.tandfonline.com/doi/full/10.1080/00343404.2017.1369023#.WhV--0ycaoY) (Open Access)
+
 * Wolf, L.; Anselin, L.; Arribas-Bel, D. (2017).
   "Stochastic Efficiency of Bayesian MCMC in Spatial Econometric 
   Models: An Empirical Comparison".
