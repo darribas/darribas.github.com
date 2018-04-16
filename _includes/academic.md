@@ -11,6 +11,11 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Tranos, E. (2018) “Big Urban Data: Challenges and Opportunities for
+  Geographical Analysis”. Editorial. *Geographical Analysis*.
+
+  * [Published version](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12157)
+
 * Arribas-Bel, D.; Tranos, E. (2017).
   "Characterizing the Spatial Structure(s) of Cities 
   “on the fly”: the Space-Time Calendar". *Geographical Analysis*.
