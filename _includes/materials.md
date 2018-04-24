@@ -2,6 +2,15 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### GDS'17 (2017)
+
+Material and website for the course Geographic Data Science'17, taught
+at the University of Liverpool. The course was open to
+last year undergraduate and master students.
+
+* [Website](http://darribas.org/gds17)
+* [Repository](https://github.com/darribas/gds17)
+
 ### GDS'16 (2016)
 
 Material and website for the course Geographic Data Science'16, taught
