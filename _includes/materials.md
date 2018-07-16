@@ -2,6 +2,12 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### SciPy'18 (2018)
+
+Scipy 2018 Tutorial - Introduction to Geospatial Data Analysis with Python
+
+* [Repository](https://github.com/geopandas/scipy2018-geospatial-data)
+
 ### GDS'17 (2017)
 
 Material and website for the course Geographic Data Science'17, taught
