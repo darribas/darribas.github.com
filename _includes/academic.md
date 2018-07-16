@@ -11,6 +11,11 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Bakens, J. "Spatial dynamics of cultural diversity in the Netherlands". 
+  *Environment and Planning B - Urban Analytics and City Science*. doi: 10.1177/2399808318783748
+
+    * [Published version](http://journals.sagepub.com/doi/abs/10.1177/2399808318783748) (paywalled)
+
 * Arribas-Bel, D.; Tranos, E. (2018) “Big Urban Data: Challenges and Opportunities for
   Geographical Analysis”. Editorial. *Geographical Analysis*.
 
