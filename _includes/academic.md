@@ -11,7 +11,19 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Arribas-Bel, D.; Bakens, J. "Spatial dynamics of cultural diversity in the Netherlands". 
+* Dong,  G.;  Alexiou,  A.; Arribas-Bel,  D.;  Wolf,  L.J. (*in press*) “Inferring  neighbourhood  
+  quality  with  property  transaction  records  by  using  a  locally  adaptive  spatial  multi-level
+  model”. Computers,  Environment  and  Urban  Systems.
+
+    * [Published version](https://www.sciencedirect.com/science/article/pii/S0198971518301042)
+
+* Arribas-Bel,  D.;  Bakens,  J. (2018) “Use  and  Validation  of  Location-Based  Services  in
+  Urban  Research:  An  Example  with  Dutch  Restaurants”. Urban  Studies.
+
+    * [Published version](http://journals.sagepub.com/doi/full/10.1177/0042098018779554)
+    * [Blog post](https://www.urbanstudiesonline.com/resources/resource/the-potential-of-the-urban-data-revolution-for-research-on-cities/)
+
+* Arribas-Bel, D.; Bakens, J. (2018) "Spatial dynamics of cultural diversity in the Netherlands". 
   *Environment and Planning B - Urban Analytics and City Science*. doi: 10.1177/2399808318783748
 
     * [Published version](http://journals.sagepub.com/doi/abs/10.1177/2399808318783748) (paywalled)
