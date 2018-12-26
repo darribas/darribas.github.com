@@ -11,7 +11,13 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Dong,  G.;  Alexiou,  A.; Arribas-Bel,  D.;  Wolf,  L.J. (*in press*) “Inferring  neighbourhood  
+* Chen, M; Arribas-Bel, D.; Singleton, A. (2018) "Understanding the dynamics of urban areas of interest through volunteered geographic information". Journal of Geographical Systems.
+
+    * [Published
+      version](https://link.springer.com/article/10.1007%2Fs10109-018-0284-3)
+      (Open Access)
+
+* Dong,  G.;  Alexiou,  A.; Arribas-Bel,  D.;  Wolf,  L.J. (2018) “Inferring  neighbourhood  
   quality  with  property  transaction  records  by  using  a  locally  adaptive  spatial  multi-level
   model”. Computers,  Environment  and  Urban  Systems.
 
