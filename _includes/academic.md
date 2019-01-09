@@ -246,7 +246,15 @@ course". *REGION*, 1(1): R1.
  
 ## <a id="BookCh"></a> Book chapters
 
-* de Graaff, T; Arribas-Bel, D.; Ozgen, C. (2017) "Demographic Aging and Employment Dynamics in German Regions: Modeling Regional Heterogeneity".
+* Arribas-Bel, D. Statistics, Modelling, and Data Science.
+    In Digital Geographies (Ash, J., Kitchin, R. and Leszczynski, A.,
+    eds.), pp. 129-140. SAGE.
+
+    * [Book](https://in.sagepub.com/en-in/sas/digital-geographies/book258271) (paywalled)
+
+* de Graaff, T; Arribas-Bel, D.; Ozgen, C. (2018) "Demographic Aging and Employment Dynamics in German Regions: Modeling Regional Heterogeneity". In
+    Modelling Aging and Migration Effects on Spatial Labor Markets
+    (pp. 211-231). Springer, Cham.
 
     * [IZA working paper](http://legacy.iza.org/en/webcontent/publications/papers/viewAbstract?dp_id=10734)
 
