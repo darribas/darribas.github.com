@@ -11,6 +11,8 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+*  Davies, A. E.; Dolega, L.; Arribas-Bel, D. (2019) “Buy online collect in-store: Exploring grocery click & collect using a national case study”. International Journal of Retail and Distribution Management.
+
 * Chen, M; Arribas-Bel, D.; Singleton, A. (2019) "Understanding the dynamics of urban areas of interest through volunteered geographic information". Journal of Geographical Systems.
 
     * [Published
