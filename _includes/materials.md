@@ -2,6 +2,14 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### Geographic Data Science with PySAL2.0: a taster
+
+Masterclass delivered by Dani Arribas-Bel at the Universidad Complutense de Madrid in February'19, hosted by t-GIS.
+
+* [Repository](https://github.com/darribas/gds_ucm19)
+* [Interactive App](https://mybinder.org/v2/gh/darribas/gds_ucm19/master)
+  (through Binder)
+
 ### SciPy'18 (2018)
 
 Scipy 2018 Tutorial - Introduction to Geospatial Data Analysis with Python
