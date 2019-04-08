@@ -11,7 +11,17 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Singleton, A.; Arribas-Bel, D. (2019) "Geographic Data Science".
+  Geographical Analysis.
+
+    * [Published Version](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12194) 
+    (Open Access)
+
 *  Davies, A. E.; Dolega, L.; Arribas-Bel, D. (2019) “Buy online collect in-store: Exploring grocery click & collect using a national case study”. International Journal of Retail and Distribution Management.
+
+    * [Published
+      version](https://www.emeraldinsight.com/doi/full/10.1108/IJRDM-01-2018-0025)
+      (Open Access)
 
 * Chen, M; Arribas-Bel, D.; Singleton, A. (2019) "Understanding the dynamics of urban areas of interest through volunteered geographic information". Journal of Geographical Systems.
 
