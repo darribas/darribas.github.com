@@ -17,6 +17,14 @@ sources in order to establish facts and reach new conclusions
     * [Published Version](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12194) 
     (Open Access)
 
+* Comber, S.; Arribas-Bel, D. (2019) "Machine learning innovations in address matching: 
+A practical comparison of word2vec and CRFs". Transactions in GIS, 23 (2):
+334--348.
+
+    * [Published
+      version](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12522)
+      Open Access)
+
 *  Davies, A. E.; Dolega, L.; Arribas-Bel, D. (2019) “Buy online collect in-store: Exploring grocery click & collect using a national case study”. International Journal of Retail and Distribution Management.
 
     * [Published
