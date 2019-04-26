@@ -2,6 +2,16 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### GDS'18 (2018)
+
+Material and website for the course Geographic Data Science'18, taught
+at the University of Liverpool. The course was open to
+last year undergraduate and master students.
+
+* [Website](http://darribas.org/gds18)
+* [Repository](https://github.com/darribas/gds18)
+* [JOSE paper](http://jose.theoj.org/papers/ab5b87ff724fbdb2fda35a7301eecce9)
+
 ### Geographic Data Science in Python
 
 One week course delivered at the Universidade Federal de Minas Gerais in March'10, hosted by CEDEPLAR.

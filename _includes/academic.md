@@ -17,21 +17,27 @@ sources in order to establish facts and reach new conclusions
     * [Published Version](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12194) 
     (Open Access)
 
+* Arribas-Bel, D. "A course on Geographic Data Science".
+    *The Journal of Open Source Education*, 2(14), 42. doi: `10.21105/jose.00042`
+
+    * [Published Version](http://jose.theoj.org/papers/ab5b87ff724fbdb2fda35a7301eecce9) 
+    (Open Access)
+
 * Comber, S.; Arribas-Bel, D. (2019) "Machine learning innovations in address matching: 
-A practical comparison of word2vec and CRFs". Transactions in GIS, 23 (2):
+A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
 334--348.
 
     * [Published
       version](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12522)
       Open Access)
 
-*  Davies, A. E.; Dolega, L.; Arribas-Bel, D. (2019) “Buy online collect in-store: Exploring grocery click & collect using a national case study”. International Journal of Retail and Distribution Management.
+*  Davies, A. E.; Dolega, L.; Arribas-Bel, D. (2019) “Buy online collect in-store: Exploring grocery click & collect using a national case study”. *International Journal of Retail and Distribution Management*.
 
     * [Published
       version](https://www.emeraldinsight.com/doi/full/10.1108/IJRDM-01-2018-0025)
       (Open Access)
 
-* Chen, M; Arribas-Bel, D.; Singleton, A. (2019) "Understanding the dynamics of urban areas of interest through volunteered geographic information". Journal of Geographical Systems.
+* Chen, M; Arribas-Bel, D.; Singleton, A. (2019) "Understanding the dynamics of urban areas of interest through volunteered geographic information". *Journal of Geographical Systems*.
 
     * [Published
       version](https://link.springer.com/article/10.1007%2Fs10109-018-0284-3)
@@ -39,12 +45,12 @@ A practical comparison of word2vec and CRFs". Transactions in GIS, 23 (2):
 
 * Dong,  G.;  Alexiou,  A.; Arribas-Bel,  D.;  Wolf,  L.J. (2019) “Inferring  neighbourhood  
   quality  with  property  transaction  records  by  using  a  locally  adaptive  spatial  multi-level
-  model”. Computers,  Environment  and  Urban  Systems.
+  model”. *Computers,  Environment  and  Urban  Systems*.
 
     * [Published version](https://www.sciencedirect.com/science/article/pii/S0198971518301042)
 
 * Arribas-Bel,  D.;  Bakens,  J. (2018) “Use  and  Validation  of  Location-Based  Services  in
-  Urban  Research:  An  Example  with  Dutch  Restaurants”. Urban  Studies.
+  Urban  Research:  An  Example  with  Dutch  Restaurants”. *Urban  Studies*.
 
     * [Published version](http://journals.sagepub.com/doi/full/10.1177/0042098018779554)
     * [Blog post](https://www.urbanstudiesonline.com/resources/resource/the-potential-of-the-urban-data-revolution-for-research-on-cities/)
