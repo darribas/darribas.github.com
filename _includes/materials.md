@@ -16,10 +16,10 @@ last year undergraduate and master students.
 
 One week course delivered at the Universidade Federal de Minas Gerais in March'10, hosted by CEDEPLAR.
 
-    * [Repository](https://github.com/darribas/gds_ufmg19)
-    * [Interactive App](https://mybinder.org/v2/gh/darribas/gds_ufmg19/master)
-      (through Binder)
-    * [Azure Notebooks project](https://notebooks.azure.com/darribas/projects/gds-ufmg19)
+* [Repository](https://github.com/darribas/gds_ufmg19)
+* [Interactive App](https://mybinder.org/v2/gh/darribas/gds_ufmg19/master)
+  (through Binder)
+* [Azure Notebooks project](https://notebooks.azure.com/darribas/projects/gds-ufmg19)
 
 ### Geographic Data Science with PySAL2.0: a taster
 
