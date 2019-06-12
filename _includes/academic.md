@@ -12,10 +12,15 @@ sources in order to establish facts and reach new conclusions
 ## <a id="SciJo"></a> Scientific journals
 
 * Singleton, A.; Arribas-Bel, D. (2019) "Geographic Data Science".
-  Geographical Analysis.
+  *Geographical Analysis*.
 
     * [Published Version](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12194) 
     (Open Access)
+
+* Stubbings, P.; Peskett, J.; Rowe, F.; Arribas-Bel, D. (2019) "A Hierarchical Urban Forest Index Using Street-Level Imagery and Deep Learning". *Remote Sensing*, 11(12). `10.3390/rs11121395`
+
+    * [Published Version](https://www.mdpi.com/2072-4292/11/12/1395) (Open
+      Access)
 
 * Arribas-Bel, D. "A course on Geographic Data Science".
     *The Journal of Open Source Education*, 2(14), 42. doi: `10.21105/jose.00042`
