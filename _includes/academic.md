@@ -34,7 +34,13 @@ A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
 
     * [Published
       version](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12522)
-      Open Access)
+      (Open Access)
+
+* Liu, Y.; Singleton, A.; Arribas-Bel, D. (2019) “A principal component analysis (PCA)based framework for automated variable selection in geodemographic classiﬁcation”. Geo-spatial Information Science. 10.1080/10095020.2019.1621549 
+
+    * [Published
+      version](https://www.tandfonline.com/doi/full/10.1080/10095020.2019.1621549)
+      (Open Access)
 
 *  Davies, A. E.; Dolega, L.; Arribas-Bel, D. (2019) “Buy online collect in-store: Exploring grocery click & collect using a national case study”. *International Journal of Retail and Distribution Management*.
 
