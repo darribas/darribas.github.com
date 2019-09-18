@@ -2,6 +2,14 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### ECTQG'19 (2019)
+
+Materials for a joint workshop (1day) with Roger Bivand on spatial analysis
+with R and Python.
+
+* [Repository](https://github.com/rsbivand/ectqg19-workshop)
+* [Ephemeral cloud instance](https://mybinder.org/v2/gh/rsbivand/ectqg19-workshop/master)
+
 ### GDS'18 (2018)
 
 Material and website for the course Geographic Data Science'18, taught
