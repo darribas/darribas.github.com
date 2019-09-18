@@ -60,6 +60,11 @@ A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
 
     * [Published version](https://www.sciencedirect.com/science/article/pii/S0198971518301042)
 
+* Arribas-Bel, D.; Reades, J. (2018) "Geography and Computers: Past, present, and future". *Geography Compass*.
+
+    * [Published version](https://onlinelibrary.wiley.com/doi/10.1111/gec3.12403)
+    * [Blog post](https://www.liverpool.ac.uk/geographic-data-science/news/stories/title,1074742,en.html)
+
 * Arribas-Bel,  D.;  Bakens,  J. (2018) “Use  and  Validation  of  Location-Based  Services  in
   Urban  Research:  An  Example  with  Dutch  Restaurants”. *Urban  Studies*.
 
