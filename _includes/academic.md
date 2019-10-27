@@ -11,8 +11,17 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Comber, S; Arribas-Bel, D; Singleton, A; Dong, G; Dolega, L.
+  ``Building Hierarchies of Retail Centers Using Bayesian Multilevel
+  Models''.
+  *Annals of the American Association of Geographers*.
+  `10.1080/24694452.2019.1667219`
+
+    * [Published Version](https://www.tandfonline.com/doi/full/10.1080/24694452.2019.1667219) 
+    (Open Access)
+
 * Singleton, A.; Arribas-Bel, D. (2019) "Geographic Data Science".
-  *Geographical Analysis*.
+  *Geographical Analysis*.`10.1111/gean.12194` 
 
     * [Published Version](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12194) 
     (Open Access)
