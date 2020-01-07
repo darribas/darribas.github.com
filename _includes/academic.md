@@ -11,6 +11,15 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Garcia-Lopez, M.-A.; Viladecans-Marsal, E. "Building(s and) cities: Delineating urban areas with a machine learning algorithm".
+  *Journal of Urban Economics*. `10.1016/j.jue.2019.103217`
+
+    * [Published Version](https://www.sciencedirect.com/science/article/pii/S0094119019300944) (Paywalled)
+    * [Working Paper](https://ieb.ub.edu/en/publication/2019-10-buildings-and-cities-delineating-urban-areas-with-a-machine-learning-algorithm/) (Open)
+    * [Interactive Map](https://gdsl.carto.com/u/danigdsl/builder/fe01a0ff-f0ee-4df2-ba4a-a46815b87aab/embed)
+    * [Code Repository](https://github.com/darribas/adbscan_buildings)
+    * [Data Download](https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136)
+
 * Comber, S; Arribas-Bel, D; Singleton, A; Dong, G; Dolega, L.
   ``Building Hierarchies of Retail Centers Using Bayesian Multilevel
   Models''.
