@@ -12,6 +12,8 @@ Derivatives of the original CLIWOC data product that make using it for visualisa
 
 ### GDS'19 (2019)
 
+[![DOI](http://jose.theoj.org/papers/10.21105/jose.00042/status.svg)](https://doi.org/10.21105/jose.00042)
+
 Material and website for the course Geographic Data Science'19, taught
 at the University of Liverpool. The course was open to
 last year undergraduate and master students.
@@ -29,6 +31,8 @@ with R and Python.
 * [Ephemeral cloud instance](https://mybinder.org/v2/gh/rsbivand/ectqg19-workshop/master)
 
 ### GDS'18 (2018)
+
+[![DOI](https://zenodo.org/badge/145456898.svg)](https://zenodo.org/badge/latestdoi/145456898)
 
 Material and website for the course Geographic Data Science'18, taught
 at the University of Liverpool. The course was open to
@@ -63,6 +67,8 @@ Scipy 2018 Tutorial - Introduction to Geospatial Data Analysis with Python
 
 ### GDS'17 (2017)
 
+[![DOI](https://zenodo.org/badge/100046460.svg)](https://zenodo.org/badge/latestdoi/100046460)
+
 Material and website for the course Geographic Data Science'17, taught
 at the University of Liverpool. The course was open to
 last year undergraduate and master students.
@@ -71,6 +77,8 @@ last year undergraduate and master students.
 * [Repository](https://github.com/darribas/gds17)
 
 ### GDS'16 (2016)
+
+[![DOI](https://zenodo.org/badge/65053914.svg)](https://zenodo.org/badge/latestdoi/65053914)
 
 Material and website for the course Geographic Data Science'16, taught
 at the University of Liverpool. The course was open to
@@ -102,6 +110,8 @@ analysis at the (last year) undergraduate/Masters level.
 * [Website](http://darribas.org/spa_notes/)
 
 ### GDS'15 (2015)
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46313.svg)](http://dx.doi.org/10.5281/zenodo.46313)
 
 Material and website for the course Geographic Data Science'15, taught
 at the University of Liverpool. The course was open to
