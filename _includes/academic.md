@@ -20,6 +20,12 @@ sources in order to establish facts and reach new conclusions
     * [Code Repository](https://github.com/darribas/adbscan_buildings)
     * [Data Download](https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136)
 
+* Lumnitz, S; Arribas-Bel, D.; Cortes, R. X.; Gaboardi, J. D.; Griess, V.; Kang, W.; Oshan, T. M.; Wolf, L.; Rey, S., (2020). splot - visual analytics for spatial statistics. *Journal of Open Source Software*, 5(47), 1882, [https://doi.org/10.21105/joss.01882](https://doi.org/10.21105/joss.01882)
+
+    * [Published Version](https://joss.theoj.org/papers/10.21105/joss.01882#) (Open Access)
+    * [Package repository](https://github.com/pysal/splot)
+    * [Package documentation](https://splot.readthedocs.io/en/latest/)
+
 * Comber, S; Arribas-Bel, D; Singleton, A; Dong, G; Dolega, L.
   ``Building Hierarchies of Retail Centers Using Bayesian Multilevel
   Models''.
