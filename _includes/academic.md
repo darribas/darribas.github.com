@@ -20,7 +20,11 @@ sources in order to establish facts and reach new conclusions
     * [Code Repository](https://github.com/darribas/adbscan_buildings)
     * [Data Download](https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136)
 
-* Chen, M.; Arribas-Bel, D.; Singleton, A. Quantifying the Characteristics of the Local Urban Environment through Geotagged Flickr Photographs and Image Recognition. *ISPRS Int. J. Geo-Inf*. 2020, 9, 264.
+* Liu, Y.;  Singleton, A.;  Arribas-Bel, D., (2020).  "Considering Context and Dynamics:  A Classification of Transit-Oriented Development for New York City". Journal ofTransport Geography, `85.10.1016/j.jtrangeo.2020.102711`
+
+* [Published Version](https://doi.org/10.1016/j.jtrangeo.2020.102711)
+
+* Chen, M.; Arribas-Bel, D.; Singleton, A., (2020). Quantifying the Characteristics of the Local Urban Environment through Geotagged Flickr Photographs and Image Recognition. *ISPRS Int. J. Geo-Inf*. 9, 264.
 
     * [Published Version](https://www.mdpi.com/2220-9964/9/4/264) (Open Access)
 
