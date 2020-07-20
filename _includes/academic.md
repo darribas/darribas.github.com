@@ -20,6 +20,10 @@ sources in order to establish facts and reach new conclusions
     * [Code Repository](https://github.com/darribas/adbscan_buildings)
     * [Data Download](https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136)
 
+* Comber, S.; Arribas-Bel, D.; Singleton, A.; Dolega, L. "Using Convolutional Au-toencoders to Extract Visual Features of Leisure and Retail Environments". Landscape and Urban Planning, 202.
+
+    * [Published Version](https://doi.org/10.1016/j.landurbplan.2020.103887) (Open Access)
+
 * Liu, Y.; Singleton, A.; Arribas-Bel, D.. ``Considering Context and Dynamics: A Classification of Transit-Oriented Development for New York
     City''. *Journal of Transport Geographyp, 85. `10.1016/j.jtrangeo.2020.102711`
 

@@ -2,6 +2,13 @@
 
 **|məˈti(ə)rēəl|** The matter from which a thing is or can be made
 
+### Web Mapping Notes
+
+[![DOI](https://zenodo.org/badge/220463137.svg)](https://zenodo.org/badge/latestdoi/220463137)
+
+* [Course website](http://darribas.org/wmn/)
+* [Materials repository](https://github.com/darribas/wmn)
+
 ### CLIWOC Slim and Routes
 
 [![DOI badge](https://img.shields.io/badge/DOI-10.6084/m9.figshare.11941224.v1-blue.svg)](https://figshare.com/articles/CLIWOC_Slim_and_Routes/11941224)
