@@ -24,6 +24,14 @@ sources in order to establish facts and reach new conclusions
 
     * [Published Version](https://doi.org/10.1016/j.landurbplan.2020.103887) (Open Access)
 
+* Franklin, R.; Houlden, V.; Robinson, C.; Arribas-Bel, D.; Delmelle, E. C.; Demsar,U.; Miller, H. J.; O’Sullivan, D. "Who Counts? Gender, Gatekeeping, and Quantitative Human Geography". *The Professional Geographer*.
+
+    * [Working paper](https://osf.io/preprints/socarxiv/ucfyd/) (Open Access)
+
+* Olson, A. W.;  Zhang, K.;  Calderon-Figueroa, F.;  Yakubov, R.;  Sanner, S.;  Silver,D.;  Arribas-Bel,  D. "Classification and Regression via Integer Optimization forNeighborhood Change". *Geographical Analysis*. `10.1111/gean.12252`
+
+    * [Published version](https://doi.org/10.1111/gean.12252)
+
 * Liu, Y.; Singleton, A.; Arribas-Bel, D.. ``Considering Context and Dynamics: A Classification of Transit-Oriented Development for New York
     City''. *Journal of Transport Geography*, 85. `10.1016/j.jtrangeo.2020.102711`
 
