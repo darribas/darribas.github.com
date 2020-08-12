@@ -100,7 +100,7 @@ A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
       version](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12522)
       (Open Access)
 
-* Liu, Y.; Singleton, A.; Arribas-Bel, D. (2019) “A principal component analysis (PCA)based framework for automated variable selection in geodemographic classiﬁcation”. Geo-spatial Information Science. 10.1080/10095020.2019.1621549 
+* Liu, Y.; Singleton, A.; Arribas-Bel, D. (2019) principal component analysis (PCA)based framework for automated variable selection in geodemographic classiﬁcation”. Geo-spatial Information Science. 10.1080/10095020.2019.1621549 
 
     * [Published
       version](https://www.tandfonline.com/doi/full/10.1080/10095020.2019.1621549)
