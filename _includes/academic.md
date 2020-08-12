@@ -43,7 +43,7 @@ sources in order to establish facts and reach new conclusions
 
     * [Published Version](https://doi.org/10.1098/rspb.2020.1405) (Open Access)
 
-* Franklin, R.; Houlden, V.; Robinson, C.; Arribas-Bel, D.; Delmelle, E. C.; Demsar,U.; Miller, H. J.; O�Sullivan, D. "Who Counts? Gender, Gatekeeping, and Quantitative Human Geography". *The Professional Geographer*.
+* Franklin, R.; Houlden, V.; Robinson, C.; Arribas-Bel, D.; Delmelle, E. C.; Demsar,U.; Miller, H. J.; O'Sullivan, D. "Who Counts? Gender, Gatekeeping, and Quantitative Human Geography". *The Professional Geographer*.
 
     * [Working paper](https://osf.io/preprints/socarxiv/ucfyd/) (Open Access)
 
@@ -100,13 +100,13 @@ A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
       version](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12522)
       (Open Access)
 
-* Liu, Y.; Singleton, A.; Arribas-Bel, D. (2019) principal component analysis (PCA)based framework for automated variable selection in geodemographic classiﬁcation”. Geo-spatial Information Science. 10.1080/10095020.2019.1621549 
+* Liu, Y.; Singleton, A.; Arribas-Bel, D. (2019) "A principal component analysis (PCA)based framework for automated variable selection in geodemographic classifications". Geo-spatial Information Science. 10.1080/10095020.2019.1621549 
 
     * [Published
       version](https://www.tandfonline.com/doi/full/10.1080/10095020.2019.1621549)
       (Open Access)
 
-*  Davies, A. E.; Dolega, L.; Arribas-Bel, D. (2019) “Buy online collect in-store: Exploring grocery click & collect using a national case study”. *International Journal of Retail and Distribution Management*.
+*  Davies, A. E.; Dolega, L.; Arribas-Bel, D. (2019) "Buy online collect in-store: Exploring grocery click & collect using a national case study". *International Journal of Retail and Distribution Management*.
 
     * [Published
       version](https://www.emeraldinsight.com/doi/full/10.1108/IJRDM-01-2018-0025)
@@ -118,9 +118,9 @@ A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
       version](https://link.springer.com/article/10.1007%2Fs10109-018-0284-3)
       (Open Access)
 
-* Dong,  G.;  Alexiou,  A.; Arribas-Bel,  D.;  Wolf,  L.J. (2019) “Inferring  neighbourhood  
+* Dong,  G.;  Alexiou,  A.; Arribas-Bel,  D.;  Wolf,  L.J. (2019) "Inferring  neighbourhood  
   quality  with  property  transaction  records  by  using  a  locally  adaptive  spatial  multi-level
-  model”. *Computers,  Environment  and  Urban  Systems*.
+  model". *Computers,  Environment  and  Urban  Systems*.
 
     * [Published version](https://www.sciencedirect.com/science/article/pii/S0198971518301042)
 
@@ -129,8 +129,8 @@ A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
     * [Published version](https://onlinelibrary.wiley.com/doi/10.1111/gec3.12403)
     * [Blog post](https://www.liverpool.ac.uk/geographic-data-science/news/stories/title,1074742,en.html)
 
-* Arribas-Bel,  D.;  Bakens,  J. (2018) “Use  and  Validation  of  Location-Based  Services  in
-  Urban  Research:  An  Example  with  Dutch  Restaurants”. *Urban  Studies*.
+* Arribas-Bel,  D.;  Bakens,  J. (2018) "Use  and  Validation  of  Location-Based  Services  in
+  Urban  Research:  An  Example  with  Dutch  Restaurants". *Urban  Studies*.
 
     * [Published version](http://journals.sagepub.com/doi/full/10.1177/0042098018779554)
     * [Blog post](https://www.urbanstudiesonline.com/resources/resource/the-potential-of-the-urban-data-revolution-for-research-on-cities/)
@@ -140,14 +140,14 @@ A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
 
     * [Published version](http://journals.sagepub.com/doi/abs/10.1177/2399808318783748) (paywalled)
 
-* Arribas-Bel, D.; Tranos, E. (2018) “Big Urban Data: Challenges and Opportunities for
-  Geographical Analysis”. Editorial. *Geographical Analysis*.
+* Arribas-Bel, D.; Tranos, E. (2018) "Big Urban Data: Challenges and Opportunities for
+  Geographical Analysis". Editorial. *Geographical Analysis*.
 
   * [Published version](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12157)
 
 * Arribas-Bel, D.; Tranos, E. (2017).
   "Characterizing the Spatial Structure(s) of Cities 
-  “on the fly”: the Space-Time Calendar". *Geographical Analysis*.
+  "on the fly": the Space-Time Calendar". *Geographical Analysis*.
 
     * [Published version](http://onlinelibrary.wiley.com/doi/10.1111/gean.12137/abstract) (paywalled)
     * [Accepted version](http://livrepository.liverpool.ac.uk/id/eprint/3008969)
