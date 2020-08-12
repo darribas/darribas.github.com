@@ -24,6 +24,25 @@ sources in order to establish facts and reach new conclusions
 
     * [Published Version](https://doi.org/10.1016/j.landurbplan.2020.103887) (Open Access)
 
+* Thompson, R. N.; Hollingsworth, T. D; Isham, V.;
+    Arribas-Bel, D.; Ashby, B.; Britton, T.; Challenor, P.;
+    Chappell, L. H. K.; Clapham, H.; Cunniffe, N. J.;
+    Dawid, A. P.; Donnelly, C. A.; Eggo, R. M.; Funk,
+    S.; Gilbert, N.; Glendinning, P.; Gog, J. R.;
+    Hart, W. S.; Heesterbeek, H.; House, T.; Keeling, M.;
+    Kiss, I. Z.; Kretzschmar, M. E.; Lloyd, A. L.;
+    McBryde, E. S.; McCaw, J. M.; McKinley, T. J.; Miller,
+    J. C.; Morris, M.; O'Neill, P. D.; Parag, K. V.;
+    Pearson, C. A. B.; Pellis, L.; Pulliam, J. R. C.; Ross,
+    J. V.; Tomba, G. S.; Silverman, B. W.;
+    Struchiner, C. J.; Tildesley, M. J.; Trapman, P.;
+    Webb, C. R.; Mollison, D.; Restif, O.
+    "Key questions for modelling COVID-19 exit strategies".
+    *Proceedings of the Royal Society B: Biological Sciences*.
+    287(1932), 20201405. `10.1098/rspb.2020.1405`
+
+    * [Published Version](https://doi.org/10.1098/rspb.2020.1405) (Open Access)
+
 * Franklin, R.; Houlden, V.; Robinson, C.; Arribas-Bel, D.; Delmelle, E. C.; Demsar,U.; Miller, H. J.; O’Sullivan, D. "Who Counts? Gender, Gatekeeping, and Quantitative Human Geography". *The Professional Geographer*.
 
     * [Working paper](https://osf.io/preprints/socarxiv/ucfyd/) (Open Access)
