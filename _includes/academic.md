@@ -11,6 +11,11 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Puente-Ajovin,  M.;  Ramos,  A.;  Sanz-Gracia,  F.;  Arribas-Bel,  D. "How sensitiveis city size distribution to the definition of city?  The case of Spain". Economics Letters.
+
+    * [Published Version](https://doi.org/10.1016/j.econlet.2020.109643)
+      (Paywalled)
+
 * Arribas-Bel, D.; Garcia-Lopez, M.-A.; Viladecans-Marsal, E. "Building(s and) cities: Delineating urban areas with a machine learning algorithm".
   *Journal of Urban Economics*. `10.1016/j.jue.2019.103217`
 
