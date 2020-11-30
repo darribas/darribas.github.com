@@ -11,12 +11,20 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Puente-Ajovin,  M.;  Ramos,  A.;  Sanz-Gracia,  F.;  Arribas-Bel,  D. "How sensitiveis city size distribution to the definition of city?  The case of Spain". Economics Letters.
+* Puente-Ajovin,  M.;  Ramos,  A.;  Sanz-Gracia,  F.;  Arribas-Bel,  D. (2021) "How sensitiveis city size distribution to the definition of city?  The case of Spain". *Economics Letters*.
 
     * [Published Version](https://doi.org/10.1016/j.econlet.2020.109643)
       (Paywalled)
 
-* Arribas-Bel, D.; Garcia-Lopez, M.-A.; Viladecans-Marsal, E. "Building(s and) cities: Delineating urban areas with a machine learning algorithm".
+* Calafiore, A.; Palmer, G.; Comber, S.; Arribas-Bel, D.; Singleton, A.
+        "A geographic data science framework for the functional and
+        contextual analysis of human dynamics within global cities".
+        *Computers, Environments and Urban Systems*, 85.
+        `j.compenvurbsys.2020.101539`
+
+    * [Published Version](https://doi.org/10.1016/j.compenvurbsys.2020.101539) (Open Access)
+
+* Arribas-Bel, D.; Garcia-Lopez, M.-A.; Viladecans-Marsal, E. (2021) "Building(s and) cities: Delineating urban areas with a machine learning algorithm".
   *Journal of Urban Economics*. `10.1016/j.jue.2019.103217`
 
     * [Published Version](https://www.sciencedirect.com/science/article/pii/S0094119019300944) (Paywalled)
@@ -25,7 +33,7 @@ sources in order to establish facts and reach new conclusions
     * [Code Repository](https://github.com/darribas/adbscan_buildings)
     * [Data Download](https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136)
 
-* Comber, S.; Arribas-Bel, D.; Singleton, A.; Dolega, L. "Using Convolutional Au-toencoders to Extract Visual Features of Leisure and Retail Environments". *Landscape and Urban Planning*, 202.
+* Comber, S.; Arribas-Bel, D.; Singleton, A.; Dolega, L. (2020) "Using Convolutional Au-toencoders to Extract Visual Features of Leisure and Retail Environments". *Landscape and Urban Planning*, 202.
 
     * [Published Version](https://doi.org/10.1016/j.landurbplan.2020.103887) (Open Access)
 
@@ -41,27 +49,27 @@ sources in order to establish facts and reach new conclusions
     Pearson, C. A. B.; Pellis, L.; Pulliam, J. R. C.; Ross,
     J. V.; Tomba, G. S.; Silverman, B. W.;
     Struchiner, C. J.; Tildesley, M. J.; Trapman, P.;
-    Webb, C. R.; Mollison, D.; Restif, O.
+    Webb, C. R.; Mollison, D.; Restif, O. (2020)
     "Key questions for modelling COVID-19 exit strategies".
     *Proceedings of the Royal Society B: Biological Sciences*.
     287(1932), 20201405. `10.1098/rspb.2020.1405`
 
     * [Published Version](https://doi.org/10.1098/rspb.2020.1405) (Open Access)
 
-* Franklin, R.; Houlden, V.; Robinson, C.; Arribas-Bel, D.; Delmelle, E. C.; Demsar,U.; Miller, H. J.; O'Sullivan, D. "Who Counts? Gender, Gatekeeping, and Quantitative Human Geography". *The Professional Geographer*.
+* Franklin, R.; Houlden, V.; Robinson, C.; Arribas-Bel, D.; Delmelle, E. C.; Demsar,U.; Miller, H. J.; O'Sullivan, D. (2020) "Who Counts? Gender, Gatekeeping, and Quantitative Human Geography". *The Professional Geographer*.
 
     * [Working paper](https://osf.io/preprints/socarxiv/ucfyd/) (Open Access)
 
-* Olson, A. W.;  Zhang, K.;  Calderon-Figueroa, F.;  Yakubov, R.;  Sanner, S.;  Silver,D.;  Arribas-Bel,  D. "Classification and Regression via Integer Optimization forNeighborhood Change". *Geographical Analysis*. `10.1111/gean.12252`
+* Olson, A. W.;  Zhang, K.;  Calderon-Figueroa, F.;  Yakubov, R.;  Sanner, S.;  Silver,D.;  Arribas-Bel,  D. (2020) "Classification and Regression via Integer Optimization forNeighborhood Change". *Geographical Analysis*. `10.1111/gean.12252`
 
     * [Published version](https://doi.org/10.1111/gean.12252)
 
-* Liu, Y.; Singleton, A.; Arribas-Bel, D.. ``Considering Context and Dynamics: A Classification of Transit-Oriented Development for New York
+* Liu, Y.; Singleton, A.; Arribas-Bel, D. (2020) ``Considering Context and Dynamics: A Classification of Transit-Oriented Development for New York
     City''. *Journal of Transport Geography*, 85. `10.1016/j.jtrangeo.2020.102711`
 
     * [Published Version](https://www.sciencedirect.com/science/article/pii/S0966692319306210) (Open Access)
 
-* Chen, M.; Arribas-Bel, D.; Singleton, A. Quantifying the Characteristics of the Local Urban Environment through Geotagged Flickr Photographs and Image Recognition. *ISPRS Int. J. Geo-Inf*. 2020, 9, 264.
+* Chen, M.; Arribas-Bel, D.; Singleton, A. (2020) Quantifying the Characteristics of the Local Urban Environment through Geotagged Flickr Photographs and Image Recognition. *ISPRS Int. J. Geo-Inf*. 2020, 9, 264.
 
     * [Published Version](https://www.mdpi.com/2220-9964/9/4/264) (Open Access)
 
@@ -71,7 +79,7 @@ sources in order to establish facts and reach new conclusions
     * [Package repository](https://github.com/pysal/splot)
     * [Package documentation](https://splot.readthedocs.io/en/latest/)
 
-* Comber, S; Arribas-Bel, D; Singleton, A; Dong, G; Dolega, L.
+* Comber, S; Arribas-Bel, D; Singleton, A; Dong, G; Dolega, L. (2019)
   ``Building Hierarchies of Retail Centers Using Bayesian Multilevel
   Models''.
   *Annals of the American Association of Geographers*.
