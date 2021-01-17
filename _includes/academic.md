@@ -16,10 +16,14 @@ sources in order to establish facts and reach new conclusions
     * [Published Version](https://doi.org/10.1016/j.econlet.2020.109643)
       (Paywalled)
 
+* Liu, Y.; Singleton, A.; Arribas-Bel, D.; Chen, M. (2021) "Identifying and understanding road-constrained areas of interest (AOIs) through spatiotemporal taxi GPS data: A case study in New York City". *Computers, Environment and Urban Systems*, 86. `j.compenvurbsys.2020.101592`
+
+    * [Published Version](https://doi.org/10.1016/j.compenvurbsys.2020.101592) (Open Access)
+
 * Calafiore, A.; Palmer, G.; Comber, S.; Arribas-Bel, D.; Singleton, A.
         "A geographic data science framework for the functional and
         contextual analysis of human dynamics within global cities".
-        *Computers, Environments and Urban Systems*, 85.
+        *Computers, Environment and Urban Systems*, 85.
         `j.compenvurbsys.2020.101539`
 
     * [Published Version](https://doi.org/10.1016/j.compenvurbsys.2020.101539) (Open Access)
