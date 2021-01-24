@@ -11,6 +11,12 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Wolf, L. J.; Anselin, L.; Arribas-Bel, D.; Mobley, L. R. (2021) "On Spatial and Platial Dependence: Examining Shrinkage in Spatially Dependent Multilevel Models". *Annals of the American Association of Geographers*.
+
+    * [Published Version](https://doi.org/10.1080/24694452.2020.1841602)
+      (Paywalled)
+    * [OSF working paper version](https://osf.io/ks6t3/) (Open Access)
+
 * Puente-Ajovin,  M.;  Ramos,  A.;  Sanz-Gracia,  F.;  Arribas-Bel,  D. (2021) "How sensitiveis city size distribution to the definition of city?  The case of Spain". *Economics Letters*.
 
     * [Published Version](https://doi.org/10.1016/j.econlet.2020.109643)
