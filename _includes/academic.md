@@ -43,7 +43,7 @@ sources in order to establish facts and reach new conclusions
     * [Code Repository](https://github.com/darribas/adbscan_buildings)
     * [Data Download](https://figshare.com/articles/Building_s_and_cities_Delineating_urban_areas_with_a_machine_learning_algorithm_-_City_Employment_Centre_Boundaries_v1_/11384136)
 
-* Comber, S.; Arribas-Bel, D.; Singleton, A.; Dolega, L. (2020) "Using Convolutional Au-toencoders to Extract Visual Features of Leisure and Retail Environments". *Landscape and Urban Planning*, 202.
+* Comber, S.; Arribas-Bel, D.; Singleton, A.; Dolega, L. (2020) "Using Convolutional Autoencoders to Extract Visual Features of Leisure and Retail Environments". *Landscape and Urban Planning*, 202.
 
     * [Published Version](https://doi.org/10.1016/j.landurbplan.2020.103887) (Open Access)
 
@@ -68,7 +68,28 @@ sources in order to establish facts and reach new conclusions
 
 * Franklin, R.; Houlden, V.; Robinson, C.; Arribas-Bel, D.; Delmelle, E. C.; Demsar,U.; Miller, H. J.; O'Sullivan, D. (2020) "Who Counts? Gender, Gatekeeping, and Quantitative Human Geography". *The Professional Geographer*.
 
+    * [Published Version](https://www.tandfonline.com/doi/abs/10.1080/00330124.2020.1828944) (Paywalled)
     * [Working paper](https://osf.io/preprints/socarxiv/ucfyd/) (Open Access)
+
+* Boeing, G.; Arribas-Bel, D. (2020) "GIS and Computational
+    Notebooks". *The Geographic Information Science & Technology Body of
+    Knowledge (1st Quarter 2021 Edition)*, John P. Wilson (Ed.). DOI:
+    `10.22224/gistbok/2021.1.2`
+
+    * [Published Version](https://gistbok.ucgis.org/bok-topics/2021-quarter-01/gis-and-computational-notebooks) (Open Access)
+
+* Rowe, F., Maier, G., Arribas-Bel, D., & Rey, S.. "The Potential of
+    Notebooks for Scientific Publication, Reproducibility and Dissemination".
+    REGION, 7(3), E1-E5. DOI: `10.18335/region.v7i3.357`
+
+    * [Published Version](https://openjournals.wu.ac.at/ojs/index.php/region/article/view/357) (Open Access)
+
+* Chen, M., Fahrner, D., Arribas-Bel, D. & Rowe, F. "A reproducible
+    notebook to acquire, process and analyse satellite imagery", REGION,
+    7(2), pp. R15-R46. DOI: `10.18335/region.v7i2.295`
+
+    * [Published Version](https://openjournals.wu.ac.at/ojs/index.php/region/article/view/295) (Open Access)
+
 
 * Olson, A. W.;  Zhang, K.;  Calderon-Figueroa, F.;  Yakubov, R.;  Sanner, S.;  Silver,D.;  Arribas-Bel,  D. (2020) "Classification and Regression via Integer Optimization forNeighborhood Change". *Geographical Analysis*. `10.1111/gean.12252`
 
@@ -205,7 +226,7 @@ A practical comparison of word2vec and CRFs". *Transactions in GIS*, 23 (2):
 
     * [Published Commentary](http://journals.sagepub.com/eprint/w8cyKwmUSwrQ9KDrJABu/full) (Freely accessible)
 
-* Arribas-Bel, D., T. de Graaff and S.J. Rey (2017). “Looking at John Snow’s cholera map from the XXIst century: a practical primer on Reproducibility and Open Science. In: Regional Research Fontiers (R.W. Jackson and P. Schaeffer, eds.). Springer.
+* Arribas-Bel, D., T. de Graaff and S.J. Rey (2017). "Looking at John Snow's cholera map from the XXIst century: a practical primer on Reproducibility and Open Science". In: Regional Research Fontiers (R.W. Jackson and P. Schaeffer, eds.). Springer.
 
     * [Book Chapter](https://link.springer.com/chapter/10.1007/978-3-319-50590-9_17)
     * [Open Repository](https://bitbucket.org/darribas/reproducible_john_snow)
