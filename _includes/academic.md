@@ -11,6 +11,12 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+Rey, S. J.; Anselin, L.; Amaral, P.; Arribas-Bel, D.; Cortes, R. X.; Gaboardi, J. D.; Kang, W.; Knaap, E.; Li, Z.; Lumnitz, S.; Oshan, T. M.; Shao, H.; Wolf, L. J. (2021). ``The PySAL Ecosystem: Philosophy and Implementation''.
+\emph{Geographical Analysis}. \texttt{10.1111/gean.12276}
+
+    * [Published Version](https://onlinelibrary.wiley.com/doi/10.1111/gean.12276)
+      (Paywalled)
+
 * Wolf, L. J.; Anselin, L.; Arribas-Bel, D.; Mobley, L. R. (2021). "On Spatial and Platial Dependence: Examining Shrinkage in Spatially Dependent Multilevel Models". *Annals of the American Association of Geographers*.
 
     * [Published Version](https://doi.org/10.1080/24694452.2020.1841602)
@@ -22,7 +28,7 @@ sources in order to establish facts and reach new conclusions
     * [Published Version](https://doi.org/10.1016/j.landurbplan.2021.104148)
       (Paywalled)
 
-* Puente-Ajovin,  M.;  Ramos,  A.;  Sanz-Gracia,  F.;  Arribas-Bel,  D. (2021) "How sensitiveis city size distribution to the definition of city?  The case of Spain". *Economics Letters*.
+* Puente-Ajovin,  M.;  Ramos,  A.;  Sanz-Gracia,  F.;  Arribas-Bel,  D. (2021) "How sensitive is city size distribution to the definition of city?  The case of Spain". *Economics Letters*.
 
     * [Published Version](https://doi.org/10.1016/j.econlet.2020.109643)
       (Paywalled)
