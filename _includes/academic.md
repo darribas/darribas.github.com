@@ -11,8 +11,8 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
-Rey, S. J.; Anselin, L.; Amaral, P.; Arribas-Bel, D.; Cortes, R. X.; Gaboardi, J. D.; Kang, W.; Knaap, E.; Li, Z.; Lumnitz, S.; Oshan, T. M.; Shao, H.; Wolf, L. J. (2021). ``The PySAL Ecosystem: Philosophy and Implementation''.
-\emph{Geographical Analysis}. \texttt{10.1111/gean.12276}
+* Rey, S. J.; Anselin, L.; Amaral, P.; Arribas-Bel, D.; Cortes, R. X.; Gaboardi, J. D.; Kang, W.; Knaap, E.; Li, Z.; Lumnitz, S.; Oshan, T. M.; Shao, H.; Wolf, L. J. (2021). "The PySAL Ecosystem: Philosophy and Implementation".
+*Geographical Analysis*. `10.1111/gean.12276`
 
     * [Published Version](https://onlinelibrary.wiley.com/doi/10.1111/gean.12276)
       (Paywalled)
