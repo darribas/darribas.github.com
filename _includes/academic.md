@@ -11,6 +11,10 @@ sources in order to establish facts and reach new conclusions
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Green, M.; Rowe, F.; Singleton, A. (2021). "Open data products-A framework for creating valuable analysis ready data". *Journal of Geographical Systems*. `10.1007/s10109-021-00363-5`
+
+    * [Published Version](https://link.springer.com/article/10.1007%2Fs10109-021-00363-5) (Open Access)
+
 * Rey, S. J.; Anselin, L.; Amaral, P.; Arribas-Bel, D.; Cortes, R. X.; Gaboardi, J. D.; Kang, W.; Knaap, E.; Li, Z.; Lumnitz, S.; Oshan, T. M.; Shao, H.; Wolf, L. J. (2021). "The PySAL Ecosystem: Philosophy and Implementation".
 *Geographical Analysis*. `10.1111/gean.12276`
 
