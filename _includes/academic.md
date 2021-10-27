@@ -1,9 +1,6 @@
 
 # Research
 
-**|ˈrēˌsərCH, riˈsərCH|** The systematic investigation into and study of materials and
-sources in order to establish facts and reach new conclusions
-
 * [Scientific journals](#SciJo)
 * [Book chapters](#BookCh)
 * [Working papers](#WorkPa)

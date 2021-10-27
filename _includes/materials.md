@@ -1,8 +1,26 @@
 # Materials
 
-**|məˈti(ə)rēəl|** The matter from which a thing is or can be made
+### GDS Environment (`gds_env`)
 
-### Web Mapping Notes
+[![DOI](https://zenodo.org/badge/65582539.svg)](https://zenodo.org/badge/latestdoi/65582539)
+
+A containerised platform for Geographic Data Science on Docker.
+
+* [Website](https://darribas.org/gds_env)
+* [Repository](https://github.com/darribas/gds_env)
+
+### The GDS course (2020-)
+
+[![DOI](http://jose.theoj.org/papers/10.21105/jose.00042/status.svg)](https://doi.org/10.21105/jose.00042)
+
+Material and website for the course Geographic Data Science. 
+The course has been delivered to last year undergraduate and master students.
+
+* [Website](http://darribas.org/gds_course)
+* [Repository](https://github.com/darribas/gds_course)
+* [JOSE paper](http://jose.theoj.org/papers/ab5b87ff724fbdb2fda35a7301eecce9)
+
+### Web Mapping Notes (2020)
 
 [![DOI](https://zenodo.org/badge/220463137.svg)](https://zenodo.org/badge/latestdoi/220463137)
 
