@@ -5,7 +5,7 @@
 
 ## <a id='videos'></a> Talk Videos
 
-- `2021-12-16` *El papel de la Geografía en la revolución de datos: ejemplos desde la Ciencia de Datos Geográficos*. XXVII Congreso de la Asociación Española de Geografía. <button name="button" onclick="https://youtu.be/sh6xqtdFQss?t=9224">YouTube</button>
+- `2021-12-16` *El papel de la Geografía en la revolución de datos: ejemplos desde la Ciencia de Datos Geográficos* (in Spanish). XXVII Congreso de la Asociación Española de Geografía. <button name="button" onclick="https://youtu.be/sh6xqtdFQss?t=9224">YouTube</button>
 
 - `2021-12-07` *Spatial Signatures - understanding (urban) form & function in Great Britain*. Centre for Advanced Spatial Analysis (CASA), University College London. <button name="button" onclick="https://www.youtube.com/watch?v=drqIXgK8ptI">YouTube</button>
 
