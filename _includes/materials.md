@@ -5,23 +5,23 @@
 
 ## <a id='videos'></a> Talk Videos
 
-- `2021-12-16` *El papel de la Geografía en la revolución de datos: ejemplos desde la Ciencia de Datos Geográficos* (in Spanish). XXVII Congreso de la Asociación Española de Geografía. [<button name="button" onclick="https://youtu.be/sh6xqtdFQss?t=9224">YouTube</button>](https://youtu.be/sh6xqtdFQss)
+- `2021-12-16` *El papel de la Geografía en la revolución de datos: ejemplos desde la Ciencia de Datos Geográficos* (in Spanish). XXVII Congreso de la Asociación Española de Geografía. [<button name="button" onclick="https://youtu.be/sh6xqtdFQss?t=9224">YouTube</button>](https://youtu.be/sh6xqtdFQss?t=9224)
 
-- `2021-12-07` *Spatial Signatures - understanding (urban) form & function in Great Britain*. Centre for Advanced Spatial Analysis (CASA), University College London. <button name="button" onclick="https://www.youtube.com/watch?v=drqIXgK8ptI">YouTube</button>
+- `2021-12-07` *Spatial Signatures - understanding (urban) form & function in Great Britain*. Centre for Advanced Spatial Analysis (CASA), University College London. [<button name="button" onclick="https://www.youtube.com/watch?v=drqIXgK8ptI">YouTube</button>](https://www.youtube.com/watch?v=drqIXgK8ptI)
 
-- `2021-11-04` *Building "Geographic Data Science..."*. International Conference on Geospatial Information Sciences. November. Mexico. <button name="button" onclick="https://youtu.be/vTsfBZyS-8E?t=13875">YouTube</button>
+- `2021-11-04` *Building "Geographic Data Science..."*. International Conference on Geospatial Information Sciences. November. Mexico. [<button name="button" onclick="https://youtu.be/vTsfBZyS-8E?t=13875">YouTube</button>](https://youtu.be/vTsfBZyS-8E?t=13875)
 
-- `2021-10-26` *Building "Geographic Data Science..."*. Geoinformation Science Symposium (virtual). October. Indonesia. <button name="button" onclick="https://youtu.be/7ymkQKp_RL4?t=410">YouTube</button>
+- `2021-10-26` *Building "Geographic Data Science..."*. Geoinformation Science Symposium (virtual). October. Indonesia. [<button name="button" onclick="https://youtu.be/7ymkQKp_RL4?t=410">YouTube</button>](https://youtu.be/7ymkQKp_RL4?t=410)
 
-- `2021-06-27` *Spatial Signatures - (Urban) Form & Function in Great Britain*. Alan Turing Institute's Urban Analytics monthly meet up. <button name="button" onclick="https://www.youtube.com/watch?v=fHccCnUF9yc">YouTube</button>
+- `2021-06-27` *Spatial Signatures - (Urban) Form & Function in Great Britain*. Alan Turing Institute's Urban Analytics monthly meet up. [<button name="button" onclick="https://www.youtube.com/watch?v=fHccCnUF9yc">YouTube</button>](https://www.youtube.com/watch?v=fHccCnUF9yc)
 
-- `2021-04-27` *Infusing our understanding of Cities with Geographic Data Science*. Virtual colloquium at the Department of Geography of the University of Zurich. <button name="button" onclick="https://www.youtube.com/watch?v=aWzCI_x0z6c">YouTube</button> 
+- `2021-04-27` *Infusing our understanding of Cities with Geographic Data Science*. Virtual colloquium at the Department of Geography of the University of Zurich. [<button name="button" onclick="https://www.youtube.com/watch?v=aWzCI_x0z6c">YouTube</button>](https://www.youtube.com/watch?v=aWzCI_x0z6c)
 
-- `2021-03-16` *Spatial Signatures - Understanding (urban) spaces through form and function*. Urban Big Data Centre, Glasgow University. <button name="button" onclick="https://www.youtube.com/watch?v=5fq1bJX9NcE">YouTube</button>
+- `2021-03-16` *Spatial Signatures - Understanding (urban) spaces through form and function*. Urban Big Data Centre, Glasgow University. [<button name="button" onclick="https://www.youtube.com/watch?v=5fq1bJX9NcE">YouTube</button>](https://www.youtube.com/watch?v=5fq1bJX9NcE)
 
-- `2020-11-24` *Presentación del libro Geographic Data Science* (in Spanish). Maestría en Economía, Universidad de San Andrés (UdeSA, BsAs, Argentina).  <button name="button" onclick="https://www.youtube.com/watch?v=K5wWn5ZOOZ0">YouTube</button>
+- `2020-11-24` *Presentación del libro Geographic Data Science* (in Spanish). Maestría en Economía, Universidad de San Andrés (UdeSA, BsAs, Argentina). [<button name="button" onclick="https://www.youtube.com/watch?v=K5wWn5ZOOZ0">YouTube</button>](https://www.youtube.com/watch?v=K5wWn5ZOOZ0)
 
-- `2020-03-09` *Urban analytics: maximising the value of big data for enhanced urban policy making*. Building Smart Cities with Citizens and for the Public Good: A Symposium. Organised by the Heseltine Institute, University of Liverpool. <button name="button" onclick="https://stream.liv.ac.uk/s/w5bdd48h">Stream</button>
+- `2020-03-09` *Urban analytics: maximising the value of big data for enhanced urban policy making*. Building Smart Cities with Citizens and for the Public Good: A Symposium. Organised by the Heseltine Institute, University of Liverpool. [<button name="button" onclick="https://stream.liv.ac.uk/s/w5bdd48h">Stream</button>](https://stream.liv.ac.uk/s/w5bdd48h)
 
 ## <a id='artifacts'></a> Artifacts
 
