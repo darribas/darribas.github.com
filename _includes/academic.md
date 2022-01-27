@@ -8,6 +8,17 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D., Alvanides, S., Batty, M., Crooks, A., See, L., \&
+    Wolf, L. (2021). "Urban data/code: A new EP-B section". *Environment and
+    Planning B - Urban Analytics and City Science*, 48(9), 2517-2519.
+    `10.1177/23998083211059670`.
+
+    * [Published Version](https://journals.sagepub.com/doi/full/10.1177/23998083211059670) (Freely available)
+
+* Patias, N.; Rowe, F.; Arribas-Bel, D. (2021).  "Trajectories of neighbourhood inequality in Britain: Unpacking inter-regional socioeconomic imbalances, 1971-2011". *The Geographical Journal*. `10.1111/geoj.12420`.
+
+    * [Published Version](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12420) (Open Access)
+
 * Arribas-Bel, D.; Green, M.; Rowe, F.; Singleton, A. (2021). "Open data products-A framework for creating valuable analysis ready data". *Journal of Geographical Systems*. `10.1007/s10109-021-00363-5`
 
     * [Published Version](https://link.springer.com/article/10.1007%2Fs10109-021-00363-5) (Open Access)
