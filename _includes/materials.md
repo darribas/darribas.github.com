@@ -1,6 +1,7 @@
 # Materials
 
 * [Talk Videos](#videos)
+* [Audio](#audio)
 * [Artifacts](#artifacts)
 
 ## <a id='videos'></a> Talk Videos
@@ -22,6 +23,12 @@
 - `2020-11-24` *Presentación del libro Geographic Data Science* (in Spanish). Maestría en Economía, Universidad de San Andrés (UdeSA, BsAs, Argentina). [<button name="button" onclick="https://www.youtube.com/watch?v=K5wWn5ZOOZ0">YouTube</button>](https://www.youtube.com/watch?v=K5wWn5ZOOZ0)
 
 - `2020-03-09` *Urban analytics: maximising the value of big data for enhanced urban policy making*. Building Smart Cities with Citizens and for the Public Good: A Symposium. Organised by the Heseltine Institute, University of Liverpool. [<button name="button" onclick="https://stream.liv.ac.uk/s/w5bdd48h">Stream</button>](https://stream.liv.ac.uk/s/w5bdd48h)
+
+## <a id='audio'></a> Audio
+
+- `2022-02-03` *Urban Grammar- Form, Function, Culture and Satellite Imagery*. MapScaping Podcast. [<button name="button" onclick="https://mapscaping.com/podcast/urban-grammar-form-function-culture-and-satellite-imagery/">Podcast</button>](https://mapscaping.com/podcast/urban-grammar-form-function-culture-and-satellite-imagery/)
+
+- `2021` Data Standup Podcast (in Spanish). [<button name="button" onclick="https://www.bedrockdbd.com/podcast/daniel-arribas-bel/">Podcast</button>](https://www.bedrockdbd.com/podcast/daniel-arribas-bel/)
 
 ## <a id='artifacts'></a> Artifacts
 
