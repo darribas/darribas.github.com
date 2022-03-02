@@ -32,6 +32,12 @@
 
 ## <a id='artifacts'></a> Artifacts
 
+### Notes
+
+A chronological drawer of threads, throughts, and intellectual tinkering.
+
+* [Website](https://darribas.org/anotes)
+
 ### GDS Environment (`gds_env`)
 
 [![DOI](https://zenodo.org/badge/65582539.svg)](https://zenodo.org/badge/latestdoi/65582539)
