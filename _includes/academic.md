@@ -8,6 +8,16 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Singleton, A.; Arribas-Bel, D.; Murray, J.; Fleischmann, M. (2022).
+        "Estimating generalized measures of local neighbourhood context from
+        multispectral satellite images using a convolutional neural network".
+        *Computers, Environment and Urban Systems*, 95.
+        `10.1016/j.compenvurbsys.2022.101802`
+
+    * [Published Version](https://www.sciencedirect.com/science/article/pii/S0198971522000461) (Open Access)
+    * [Code repository@`GitHub`](https://github.com/GDSL-UL/sat_cnn)
+    * [Data repository@`Dataverse`](https://dataverse.harvard.edu/dataverse/sat_cnn)
+
 * Arribas-Bel, D., Alvanides, S., Batty, M., Crooks, A., See, L., \&
     Wolf, L. (2021). "Urban data/code: A new EP-B section". *Environment and
     Planning B - Urban Analytics and City Science*, 48(9), 2517-2519.
