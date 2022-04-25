@@ -1,5 +1,7 @@
 # Bio
 
+`Photo`: [Large](assets/img/dab_large.jpg) & [Small](assets/img/dab_small.jpg)
+
 ## Short
 
 <p class='longform'>
