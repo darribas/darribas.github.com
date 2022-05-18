@@ -17,6 +17,7 @@
     * [Published Version](https://www.sciencedirect.com/science/article/pii/S0198971522000461) (Open Access)
     * [Code repository@`GitHub`](https://github.com/GDSL-UL/sat_cnn)
     * [Data repository@`Dataverse`](https://dataverse.harvard.edu/dataverse/sat_cnn)
+    * [Interactive map@`Unfolded`](https://studio.unfolded.ai/public/c40f0a5b-a1f8-48af-8b7d-7c258942cf0d)
 
 * Arribas-Bel, D., Alvanides, S., Batty, M., Crooks, A., See, L., \&
     Wolf, L. (2021). "Urban data/code: A new EP-B section". *Environment and
