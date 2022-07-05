@@ -8,9 +8,19 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Samardzhiev, K.; Fleischmann, M.; Arribas-Bel, D.; Calafiore, A.; Rowe, F. (2022).
+    "Functional signatures in Great Britain: A dataset".
+    *Data in Brief*, 43.
+    `10.1016/j.dib.2022.108335`
+
+    * [Published Version](https://doi.org/10.1016/j.dib.2022.108335) (Open Access)
+    * [Code repository@`Github`](https://github.com/gdsl-itinerant/functional_areas)
+    * [Data product@`Figshare`](https://doi.org/10.6084/m9.figshare.c.5906981.v1)
+    * [Web map](https://gdsl-itinerant.github.io/functional_signatures_map/)
+
 * Comber, S.; Park, S.; Arribas-Bel, D.
         "Dynamic-IMD (D-IMD): Introducing activity spaces to deprivation
-        measurement in London, Birmingham and Liverpool".
+        measurement in London, Birmingham and Liverpool". (2022).
         *Cities*, 127.
         `10.1016/j.cities.2022.103733`
 
