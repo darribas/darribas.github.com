@@ -8,6 +8,14 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Comber, S.; Park, S.; Arribas-Bel, D.
+        "Dynamic-IMD (D-IMD): Introducing activity spaces to deprivation
+        measurement in London, Birmingham and Liverpool".
+        *Cities*, 127.
+        `10.1016/j.cities.2022.103733`
+
+    * [Published Version](https://doi.org/10.1016/j.cities.2022.103733) (Paywalled)
+
 * Chen, M.; Liu, Y.; Arribas-Bel, D.; Singleton, A. (2022).
     "Assessing the value of user-generated images of urban surroundings for house price estimation".
     *Landscape and Urban Planning*, 226. `10.1016/j.landurbplan.2022.104486`
