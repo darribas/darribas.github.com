@@ -6,6 +6,8 @@
 
 ## <a id='videos'></a> Talk Videos
 
+- `2022-05-03` *Geographic Data Science with Python: Spatial Feature Engineering (Ch. 12)* [<button name="button" onclick="https://youtu.be/I-CAKCW8Wv0">YouTube</button>](https://youtu.be/I-CAKCW8Wv0)
+
 - `2021-12-16` *El papel de la Geografía en la revolución de datos: ejemplos desde la Ciencia de Datos Geográficos* (in Spanish). XXVII Congreso de la Asociación Española de Geografía. [<button name="button" onclick="https://youtu.be/sh6xqtdFQss?t=9224">YouTube</button>](https://youtu.be/sh6xqtdFQss?t=9224)
 
 - `2021-12-07` *Spatial Signatures - understanding (urban) form & function in Great Britain*. Centre for Advanced Spatial Analysis (CASA), University College London. [<button name="button" onclick="https://www.youtube.com/watch?v=drqIXgK8ptI">YouTube</button>](https://www.youtube.com/watch?v=drqIXgK8ptI)
@@ -25,6 +27,8 @@
 - `2020-03-09` *Urban analytics: maximising the value of big data for enhanced urban policy making*. Building Smart Cities with Citizens and for the Public Good: A Symposium. Organised by the Heseltine Institute, University of Liverpool. [<button name="button" onclick="https://stream.liv.ac.uk/s/w5bdd48h">Stream</button>](https://stream.liv.ac.uk/s/w5bdd48h)
 
 ## <a id='audio'></a> Audio
+
+- `2022-05-28` *Making an Impact 2022 special - Digital research and innovation*. University of Liverpool, The Academy podcast. [<button name="button" onclick="https://www.liverpool.ac.uk/the-academy/podcast/season-six/digital-research-innovation/">Podcast</button>](https://www.liverpool.ac.uk/the-academy/podcast/season-six/digital-research-innovation/)
 
 - `2022-02-03` *Urban Grammar- Form, Function, Culture and Satellite Imagery*. MapScaping Podcast. [<button name="button" onclick="https://mapscaping.com/podcast/urban-grammar-form-function-culture-and-satellite-imagery/">Podcast</button>](https://mapscaping.com/podcast/urban-grammar-form-function-culture-and-satellite-imagery/)
 
