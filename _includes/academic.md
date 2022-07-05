@@ -8,6 +8,12 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Chen, M.; Liu, Y.; Arribas-Bel, D.; Singleton, A. (2022).
+    "Assessing the value of user-generated images of urban surroundings for house price estimation".
+    *Landscape and Urban Planning*, 226. `10.1016/j.landurbplan.2022.104486`
+
+    * [Published Version](https://doi.org/10.1016/j.landurbplan.2022.104486) (Open Access)
+
 * Singleton, A.; Arribas-Bel, D.; Murray, J.; Fleischmann, M. (2022).
         "Estimating generalized measures of local neighbourhood context from
         multispectral satellite images using a convolutional neural network".
