@@ -30,6 +30,8 @@
 
 ## <a id='audio'></a> Audio
 
+`2022-07-21` *Legacies series: Kenzō Tange* (from min.22). Monocle Radio, The Urbanist Podcast. [<button name="button" onclick="https://monocle.com/radio/shows/the-urbanist/562/">Podcast</button>](https://monocle.com/radio/shows/the-urbanist/562/)
+
 - `2022-05-28` *Making an Impact 2022 special - Digital research and innovation*. University of Liverpool, The Academy podcast. [<button name="button" onclick="https://www.liverpool.ac.uk/the-academy/podcast/season-six/digital-research-innovation/">Podcast</button>](https://www.liverpool.ac.uk/the-academy/podcast/season-six/digital-research-innovation/)
 
 - `2022-02-03` *Urban Grammar- Form, Function, Culture and Satellite Imagery*. MapScaping Podcast. [<button name="button" onclick="https://mapscaping.com/podcast/urban-grammar-form-function-culture-and-satellite-imagery/">Podcast</button>](https://mapscaping.com/podcast/urban-grammar-form-function-culture-and-satellite-imagery/)
