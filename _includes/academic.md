@@ -8,6 +8,31 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Arribas-Bel, D.; Fleischmann, M. (2022)
+        "Spatial Signatures - Understanding (urban) spaces through form and function".
+        *Habitat International*, 128.
+        `10.1016/j.habitatint.2022.102641`.
+
+    * [Published Version](https://www.sciencedirect.com/science/article/pii/S0197397522001382) (Open Access)
+    * [Code repository@`Github`](https://github.com/urbangrammarai/spatial_signatures_concept)
+
+* Fleischmann, M.; Arribas-Bel, D. (2022)
+        "Geographical characterisation of British urban form and function using the spatial signatures framework".
+        *Scientific Data*, 9, 546.
+        `10.1038/s41597-022-01640-8`.
+
+    * [Published Version](https://www.nature.com/articles/s41597-022-01640-8) (Open Access)
+    * [Paper repository](https://github.com/urbangrammarai/scientific_data) & [code repository](https://github.com/urbangrammarai/spatial_signatures)@`Github`
+    * [Data product@`CDRC`](https://data.cdrc.ac.uk/dataset/spatial-signatures-great-britain)
+    * [Web map](https://urbangrammarai.xyz/great-britain/)
+
+* Patias, N.; Rowe, F.; Arribas-Bel, D. (2022).
+        "Local urban attributes defining ethnically segregated areas across English cities: A multilevel approach".
+        *Cities*, 132.
+        `10.1016/j.cities.2022.103967`.
+
+    * [Published Version](https://doi.org/10.1016/j.cities.2022.103967) (Open Access)
+
 * Samardzhiev, K.; Fleischmann, M.; Arribas-Bel, D.; Calafiore, A.; Rowe, F. (2022).
     "Functional signatures in Great Britain: A dataset".
     *Data in Brief*, 43.
