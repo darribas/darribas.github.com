@@ -441,7 +441,7 @@ course". *REGION*, 1(1): R1.
   et Developpement*, 36: 165-187.
 
     * [Published
-      version](http://region-developpement.univ-tln.fr/fr/pdf/R36/9-Arribas.pdf)
+      version](https://core.ac.uk/download/pdf/18452989.pdf)
       (open pdf)
 
 * Kourtit, K., Arribas-Bel, D., Nijkamp, P. (2012) “High Performers in Complex
