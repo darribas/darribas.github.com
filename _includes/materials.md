@@ -6,9 +6,11 @@
 
 ## <a id='videos'></a> Talk Videos
 
-- `2022-06-27` *Open by Default - Developing reproducible, computational research* [<button name="button" onclick="https://youtu.be/u3hYWLYApoA?t=3531">YouTube</button>](https://youtu.be/u3hYWLYApoA?t=3531)
+- `2022-11-05` *Making it easy for regional scientists to consider (urban) form & function*. Economic Data Science Seminars. ONS Data Science Campus. [<button name="button" onclick="https://datasciencecampus.ons.gov.uk/capability/economic-data-science-series/">Stream</button>](https://datasciencecampus.ons.gov.uk/capability/economic-data-science-series/)
 
-- `2022-05-03` *Geographic Data Science with Python: Spatial Feature Engineering (Ch. 12)* [<button name="button" onclick="https://youtu.be/I-CAKCW8Wv0">YouTube</button>](https://youtu.be/I-CAKCW8Wv0)
+- `2022-06-27` *Open by Default - Developing reproducible, computational research*. Royal Statistical Society, Merseyside local chapter. [<button name="button" onclick="https://youtu.be/u3hYWLYApoA?t=3531">YouTube</button>](https://youtu.be/u3hYWLYApoA?t=3531)
+
+- `2022-05-03` *Geographic Data Science with Python: Spatial Feature Engineering (Ch. 12)*. University of Chicago. [<button name="button" onclick="https://youtu.be/I-CAKCW8Wv0">YouTube</button>](https://youtu.be/I-CAKCW8Wv0)
 
 - `2021-12-16` *El papel de la Geografía en la revolución de datos: ejemplos desde la Ciencia de Datos Geográficos* (in Spanish). XXVII Congreso de la Asociación Española de Geografía. [<button name="button" onclick="https://youtu.be/sh6xqtdFQss?t=9224">YouTube</button>](https://youtu.be/sh6xqtdFQss?t=9224)
 
