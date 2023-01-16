@@ -8,7 +8,7 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Arribas-Bel, D.; Fleischmann, M. (2022)
+* Arribas-Bel, D.; Fleischmann, M. (2022).
         "Spatial Signatures - Understanding (urban) spaces through form and function".
         *Habitat International*, 128.
         `10.1016/j.habitatint.2022.102641`.
@@ -16,7 +16,7 @@
     * [Published Version](https://www.sciencedirect.com/science/article/pii/S0197397522001382) (Open Access)
     * [Code repository@`Github`](https://github.com/urbangrammarai/spatial_signatures_concept)
 
-* Fleischmann, M.; Arribas-Bel, D. (2022)
+* Fleischmann, M.; Arribas-Bel, D. (2022).
         "Geographical characterisation of British urban form and function using the spatial signatures framework".
         *Scientific Data*, 9, 546.
         `10.1038/s41597-022-01640-8`.
@@ -25,6 +25,15 @@
     * [Paper repository](https://github.com/urbangrammarai/scientific_data) & [code repository](https://github.com/urbangrammarai/spatial_signatures)@`Github`
     * [Data product@`CDRC`](https://data.cdrc.ac.uk/dataset/spatial-signatures-great-britain)
     * [Web map](https://urbangrammarai.xyz/great-britain/)
+
+* Rowe, F.; Calafiore, A.; Arribas-Bel, D.; Samardzhiev, K.; Fleischmann, M.
+  (2022).
+  "Urban exodus? Understanding human mobility in Britain during the
+        COVID-19 pandemic using Meta-Facebook data".
+        *Population, Space and Place, 29, e2637.
+        `10.1002/psp.2637`.
+
+    * [Published Version](https://doi.org/10.1002/psp.2637) (Open Access)
 
 * Patias, N.; Rowe, F.; Arribas-Bel, D. (2022).
         "Local urban attributes defining ethnically segregated areas across English cities: A multilevel approach".
