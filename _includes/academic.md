@@ -488,6 +488,13 @@ course". *REGION*, 1(1): R1.
  
 ## <a id="BookCh"></a> Book chapters
 
+* Arribas-Bel, D., Rowe, F., Chen, M., & Comber, S. An image library:
+        The potential of imagery in (quantitative) social sciences. In Handbook
+        of Spatial Analysis in the Social Sciences (pp. 528-543).
+        Edward Elgar Publishing. `https://doi.org/10.4337/9781789903942.00042`
+
+    * [Book](https://doi.org/10.4337/9781789903942) (paywalled)
+
 * Arribas-Bel, D. Statistics, Modelling, and Data Science.
     In Digital Geographies (Ash, J., Kitchin, R. and Leszczynski, A.,
     eds.), pp. 129-140. SAGE.
