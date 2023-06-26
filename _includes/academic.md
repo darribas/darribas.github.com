@@ -8,6 +8,14 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Owen, D.; Arribas-Bel, D.; Rowe, F. (2023).
+        "Tracking the Transit Divide: A Multilevel Modelling Approach of Urban Inequalities
+        and Train Ridership Disparities in Chicago".
+        *Sustainability*, 15(11). \\
+        `10.3390/su15118821`.
+
+    * [Published Version](https://doi.org/10.3390/su15118821) (Open Access)
+
 * Arribas-Bel, D.; Fleischmann, M. (2022).
         "Spatial Signatures - Understanding (urban) spaces through form and function".
         *Habitat International*, 128.
