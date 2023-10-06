@@ -8,6 +8,23 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Salat, H.; Carlino, D.; Benitez-Paez, F.; Zanchetta, A.;
+        Arribas-Bel, D.; Birkin, M.
+        "Synthetic population Catalyst: A micro-simulated population of
+        England with circadian activities".
+        *Environment and Planning B - Urban Analytics and City Science*.
+        `10.1177/23998083231203066`.
+
+    * [Published Version](https://doi.org/10.1177/23998083231203066) (Open Access)
+
+* Murphy, J.; Plater, A.; Bird, C.; Arribas-Bel, D.
+        "Spatial-temporal variability: characterisation of a beach system
+        using high resolution radar data".
+        *Frontiers in Marine Science*. Vol. 10.
+        `10.3389/fmars.2023.1142077`.
+
+    * [Published Version](https://doi.org/10.3389/fmars.2023.1142077) (Open Access)
+
 * Owen, D.; Arribas-Bel, D.; Rowe, F. (2023).
         "Tracking the Transit Divide: A Multilevel Modelling Approach of Urban Inequalities
         and Train Ridership Disparities in Chicago".
