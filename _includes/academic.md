@@ -12,9 +12,9 @@
         "Inequalities in experiencing urban functions.
         An exploration of human digital (geo-)footprints".
         *Environment and Planning B - Urban Analytics and City Science*.
-        `10.1177/23998083231208`.
+        `10.1177/23998083231208507`.
 
-    * [Published Version](https://doi.org/10.1177/23998083231208) (Open Access)
+    * [Published Version](https://doi.org/10.1177/23998083231208507) (Open Access)
 
 * Salat, H.; Carlino, D.; Benitez-Paez, F.; Zanchetta, A.;
         Arribas-Bel, D.; Birkin, M.
