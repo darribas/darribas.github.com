@@ -48,6 +48,13 @@ A chronological drawer of threads, throughts, and intellectual tinkering.
 
 * [Website](https://darribas.org/anotes)
 
+### Urban Analytics Lecture
+
+A 4h session providing an overview of Urban Analytics.
+
+* [Website](https://darribas.org/https://github.com/darribas/ua_lecture)
+* [Repository](https://github.com/darribas/ua_lecture)
+
 ### GDS Environment (`gds_env`)
 
 [![DOI](https://zenodo.org/badge/65582539.svg)](https://zenodo.org/badge/latestdoi/65582539)
@@ -56,6 +63,15 @@ A containerised platform for Geographic Data Science on Docker.
 
 * [Website](https://darribas.org/gds_env)
 * [Repository](https://github.com/darribas/gds_env)
+
+### GDS for Applied Economists (`gds4ae`)
+
+[![DOI](https://zenodo.org/badge/65582539.svg)](https://zenodo.org/badge/latestdoi/65582539)
+
+A containerised platform for Geographic Data Science on Docker.
+
+* [Website](https://darribas.org/gds4ae/)
+* [Repository](https://github.com/darribas/gds4ae)
 
 ### The GDS course (2020-)
 

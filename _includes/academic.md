@@ -8,7 +8,12 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
-* Calafiore, A.; Samardzhiev, K.; Rowe, F.; Fleischmann, M.; Arribas-Bel, D.
+* Arribas-Bel, D., & Fleischmann, M. (2024). "In praise of (spatial) bundles".
+  *Environment and Planning B: Urban Analytics and City Science*, `23998083231224151`.
+
+    * [Published Version](https://doi.org/10.1177/23998083231208507) (Free Access)
+
+* Calafiore, A.; Samardzhiev, K.; Rowe, F.; Fleischmann, M.; Arribas-Bel, D. (2023)
         "Inequalities in experiencing urban functions.
         An exploration of human digital (geo-)footprints".
         *Environment and Planning B - Urban Analytics and City Science*.
@@ -17,7 +22,7 @@
     * [Published Version](https://doi.org/10.1177/23998083231208507) (Open Access)
 
 * Salat, H.; Carlino, D.; Benitez-Paez, F.; Zanchetta, A.;
-        Arribas-Bel, D.; Birkin, M.
+        Arribas-Bel, D.; Birkin, M. (2023)
         "Synthetic population Catalyst: A micro-simulated population of
         England with circadian activities".
         *Environment and Planning B - Urban Analytics and City Science*.
@@ -25,7 +30,7 @@
 
     * [Published Version](https://doi.org/10.1177/23998083231203066) (Open Access)
 
-* Murphy, J.; Plater, A.; Bird, C.; Arribas-Bel, D.
+* Murphy, J.; Plater, A.; Bird, C.; Arribas-Bel, D. (2023)
         "Spatial-temporal variability: characterisation of a beach system
         using high resolution radar data".
         *Frontiers in Marine Science*. Vol. 10.
