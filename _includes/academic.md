@@ -8,10 +8,39 @@
 
 ## <a id="SciJo"></a> Scientific journals
 
+* Fleischmann, M., & Arribas-Bel, D. (2024). 
+  "Decoding (urban) form and function using spatially explicit deep learning".
+  *Computers, Environment and Urban Systems*, 112, 102147.
+  `10.1016/j.compenvurbsys.2024.102147`
+
+    * [Published Version](https://doi.org/10.1016/j.compenvurbsys.2024.102147) (Open Access)
+
+* Malleson, N., Franklin, R., Arribas-Bel, D., Cheng, T., & Birkin, M. (2024). 
+  "Digital twins on trial: Can they actually solve wicked societal problems and 
+  change the world for better?" 
+  *Environment and Planning B: Urban Analytics and City Science*, 51(6), 1181-1186.
+  `10.1177/23998083241262893`
+
+    * [Published Version](https://doi.org/10.1177/23998083241262893) (Free Access)
+
+* Kenyon, G.E.; Arribas-Bel, D.; Robinson, C. (2024). 
+  "Extracting Features from Satellite Imagery to Understand 
+  the Size and Scale of Housing Sub-Markets in Madrid". 
+  *Land*, 13, 575. `10.3390/land13050575` 
+
+    * [Published Version](https://doi.org/10.3390/land13050575) (Open Access)
+
+* Kenyon, G.E., Arribas-Bel, D., Robinson, C. et al. (2024). 
+  "Intra-urban house prices in Madrid following the financial crisis: 
+  an exploration of spatial inequality". 
+  *npj Urban Sustain* 4, 26 (2024). `10.1038/s42949-024-00161-0`
+
+    * [Published Version](https://doi.org/10.1038/s42949-024-00161-0) (Open Access)
+
 * Arribas-Bel, D., & Fleischmann, M. (2024). "In praise of (spatial) bundles".
   *Environment and Planning B: Urban Analytics and City Science*, `23998083231224151`.
 
-    * [Published Version](https://doi.org/10.1177/23998083231208507) (Free Access)
+    * [Published Version](https://doi.org/10.1177/23998083231224151) (Free Access)
 
 * Calafiore, A.; Samardzhiev, K.; Rowe, F.; Fleischmann, M.; Arribas-Bel, D. (2023)
         "Inequalities in experiencing urban functions.
@@ -525,6 +554,10 @@ course". *REGION*, 1(1): R1.
       paper](https://geodacenter.asu.edu/category/public/measuring-spati) (GeoDa Center Working Paper Series)
  
 ## <a id="BookCh"></a> Book chapters
+
+* Arribas-Bel, D., Graser, A.  Geographic data science: a manifesto. In A Research Agenda for Spatial Analysis, edited by Levi John Wolf, Richard Harris, and Alison Heppenstall. Edward Elgar Publishing. `ISBN: 978 1 80220 322 6`.
+
+    * [Book](https://www.e-elgar.com/shop/gbp/a-research-agenda-for-spatial-analysis-9781802203226.html) (paywalled)
 
 * Arribas-Bel, D., Rowe, F., Chen, M., & Comber, S. An image library:
         The potential of imagery in (quantitative) social sciences. In Handbook

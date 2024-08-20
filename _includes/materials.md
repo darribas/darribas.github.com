@@ -6,6 +6,8 @@
 
 ## <a id='videos'></a> Talk Videos
 
+- `2023-11-28` *Understanding Urban Form & Function using Urban Analytics*. IOR Forum. [<button name="button" onclick="https://www.youtube.com/watch?v=GZU9o-c2zqQ">Stream</button>](https://www.youtube.com/watch?v=GZU9o-c2zqQ)
+
 - `2022-11-05` *Making it easy for regional scientists to consider (urban) form & function*. Economic Data Science Seminars. ONS Data Science Campus. [<button name="button" onclick="https://datasciencecampus.ons.gov.uk/capability/economic-data-science-series/">Stream</button>](https://datasciencecampus.ons.gov.uk/capability/economic-data-science-series/)
 
 - `2022-06-27` *Open by Default - Developing reproducible, computational research*. Royal Statistical Society, Merseyside local chapter. [<button name="button" onclick="https://youtu.be/u3hYWLYApoA?t=3531">YouTube</button>](https://youtu.be/u3hYWLYApoA?t=3531)
