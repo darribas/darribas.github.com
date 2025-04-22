@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dani Arribas-Bel - Landing</title>
+    <link rel="icon" href="https://darribas.github.io/assets/img/dab_small.jpg" type="image/x-icon">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+        .profile-photo {
+            border-radius: 50%;
+            width: 100px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .icon {
+            margin: 10px;
+            width: 33px; /* 66% of 50px */
+            height: 33px; /* 66% of 50px */
+            filter: var(--icon-filter);
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --text-color: #f8f8f2;
+                --link-color: #8be9fd;
+                --link-visited-color: #8be9fd;
+                --accent1-color: #f8f8f2;
+                --accent2-color: #f8f8f2;
+                --bg-color: #282a36;
+                --code-color: #44475a;
+                --button-text-color: #282a36;
+                --blockquote-color: #44475a;
+                --blockquote-border-color: #6272a4;
+                --aside-color: #6272a4;
+                --aside-border-color: #7797b7;
+                --note-color: #3f444a;
+                --note-border-color: #4f545a;
+                --alert-color: #ff5555;
+                --alert-border-color: #ff6e6e;
+                --field-color: #44475a;
+                --mark-color: #FFFF99;
+                --audio-link-color: #ff6e6e;
+                --icon-filter: invert(100%);
+            }
+        }
+        @media (prefers-color-scheme: light) {
+            :root {
+                --bg-color: #ffffff;
+                --text-color: #000000;
+                --icon-filter: invert(0%);
+            }
+        }
+        @media (max-width: 600px) {
+            .profile-photo {
+                width: 80px;
+                height: auto;
+            }
+            .icon {
+                width: 26px; /* 66% of 40px */
+                height: 26px; /* 66% of 40px */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://darribas.github.io/assets/img/dab_small.jpg" alt="Profile Photo" class="profile-photo">
+        <h1>Dani Arribas-Bel</h1>
+        <a href="https://me.darribas.org" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/home.png" alt="Personal Page" class="icon"></a>
+        <a href="https://www.liverpool.ac.uk/people/daniel-arribas-bel" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/briefcase.png" alt="Work Page" class="icon"></a>
+        <a href="https://scholar.google.com/citations?user=OJXpgAcAAAAJ" target="_blank"><img src="https://img.icons8.com/?size=100&id=okYCvWotC0uX&format=png&color=000000" alt="Google Scholar" class="icon"></a>
+        <a href="https://www.linkedin.com/in/darribas" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" class="icon"></a>
+        <a href="https://mapstodon.space/@darribas" target="_blank"><img src="https://img.icons8.com/?size=100&id=SjG6BzZwdP2-&format=png&color=000000" alt="Mastodon" class="icon"></a>
+        <a href="@darribas.bsky.social" target="_blank"><img src="https://img.icons8.com/?size=100&id=VU4NBCKnIvR8&format=png&color=000000" alt="Bluesky" class="icon"></a>
+        <a href="https://github.com/darribas" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" class="icon"></a>
+        <a href="https://www.youtube.com/@DanielArribasBel" target="_blank"><img src="https://img.icons8.com/?size=100&id=37325&format=png&color=000000" alt="YouTube" class="icon"></a>
+    </div>
+</body>
+</html>
